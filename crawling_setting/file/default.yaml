@@ -1,0 +1,12 @@
+crawlingTime: ''
+crawlingType: File Crawling
+indexName: product_file
+jobName: default
+loginRequired: Not Required
+password: ''
+passwordId: ''
+submitId: ''
+url: \\192.168.140.236\search_target
+username: ''
+usernameId: ''
+webContentsType: Static Web Contents

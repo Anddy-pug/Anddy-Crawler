@@ -1,0 +1,80 @@
+2024-10-19 19:13:21,704 - INFO - 2024-10-19 19:13:21 [scrapy.utils.log] INFO: Scrapy 2.11.2 started (bot: school_spider)
+2024-10-19 19:13:21,730 - INFO - 2024-10-19 19:13:21 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.11.7, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.7.0, Python 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)], pyOpenSSL 24.2.1 (OpenSSL 3.2.2 4 Jun 2024), cryptography 42.0.8, Platform Windows-10-10.0.19045-SP0
+2024-10-19 19:13:21,731 - INFO - +++++++++++++++++++++:W3School_react
+2024-10-19 19:13:21,732 - INFO - 2024-10-19 19:13:21 [scrapy.addons] INFO: Enabled addons:
+2024-10-19 19:13:21,733 - INFO - []
+2024-10-19 19:13:21,872 - INFO - 2024-10-19 19:13:21 [asyncio] DEBUG: Using selector: SelectSelector
+2024-10-19 19:13:21,873 - INFO - 2024-10-19 19:13:21 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2024-10-19 19:13:21,873 - INFO - 2024-10-19 19:13:21 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.windows_events._WindowsSelectorEventLoop
+2024-10-19 19:13:22,570 - INFO - 2024-10-19 19:13:22 [scrapy.extensions.telnet] INFO: Telnet Password: 5ead05813725adb1
+2024-10-19 19:13:23,557 - INFO - 2024-10-19 19:13:23 [scrapy.middleware] INFO: Enabled extensions:
+2024-10-19 19:13:23,557 - INFO - ['scrapy.extensions.corestats.CoreStats',
+2024-10-19 19:13:23,558 - INFO - 'scrapy.extensions.telnet.TelnetConsole',
+2024-10-19 19:13:23,558 - INFO - 'scrapy.extensions.logstats.LogStats']
+2024-10-19 19:13:23,559 - INFO - 2024-10-19 19:13:23 [scrapy.crawler] INFO: Overridden settings:
+2024-10-19 19:13:23,560 - INFO - {'BOT_NAME': 'school_spider',
+2024-10-19 19:13:23,560 - INFO - 'CONCURRENT_REQUESTS_PER_IP': 16,
+2024-10-19 19:13:23,560 - INFO - 'FEED_EXPORT_ENCODING': 'utf-8',
+2024-10-19 19:13:23,561 - INFO - 'NEWSPIDER_MODULE': 'school_spider.spiders',
+2024-10-19 19:13:23,561 - INFO - 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+2024-10-19 19:13:23,561 - INFO - 'SPIDER_MODULES': ['school_spider.spiders'],
+2024-10-19 19:13:23,562 - INFO - 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor',
+2024-10-19 19:13:23,562 - INFO - 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 '
+2024-10-19 19:13:23,562 - INFO - '(KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
+2024-10-19 19:13:25,879 - INFO - 2024-10-19 19:13:25 [scrapy.middleware] INFO: Enabled downloader middlewares:
+2024-10-19 19:13:25,879 - INFO - ['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+2024-10-19 19:13:25,880 - INFO - 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+2024-10-19 19:13:25,880 - INFO - 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+2024-10-19 19:13:25,881 - INFO - 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+2024-10-19 19:13:25,881 - INFO - 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+2024-10-19 19:13:25,882 - INFO - 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+2024-10-19 19:13:25,882 - INFO - 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+2024-10-19 19:13:25,882 - INFO - 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+2024-10-19 19:13:25,883 - INFO - 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+2024-10-19 19:13:25,883 - INFO - 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+2024-10-19 19:13:25,883 - INFO - 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+2024-10-19 19:13:25,883 - INFO - 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2024-10-19 19:13:25,991 - INFO - 2024-10-19 19:13:25 [scrapy.middleware] INFO: Enabled spider middlewares:
+2024-10-19 19:13:25,991 - INFO - ['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+2024-10-19 19:13:25,992 - INFO - 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+2024-10-19 19:13:25,992 - INFO - 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+2024-10-19 19:13:25,993 - INFO - 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2024-10-19 19:13:26,019 - INFO - 2024-10-19 19:13:26 [scrapy.middleware] INFO: Enabled item pipelines:
+2024-10-19 19:13:26,020 - INFO - ['school_spider.pipelines.ElasticsearchPipeline']
+2024-10-19 19:13:26,020 - INFO - 2024-10-19 19:13:26 [scrapy.core.engine] INFO: Spider opened
+2024-10-19 19:13:26,670 - INFO - 2024-10-19 19:13:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): 192.168.140.243:9200
+2024-10-19 19:13:27,011 - INFO - 2024-10-19 19:13:27 [urllib3.connectionpool] DEBUG: https://192.168.140.243:9200 "HEAD / HTTP/1.1" 200 0
+2024-10-19 19:13:27,012 - INFO - 2024-10-19 19:13:27 [elastic_transport.transport] INFO: HEAD https://192.168.140.243:9200/ [status:200 duration:0.342s]
+2024-10-19 19:13:27,013 - INFO - 2024-10-19 19:13:27 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2024-10-19 19:13:27,013 - INFO - 2024-10-19 19:13:27 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2024-10-19 19:13:48,300 - INFO - 2024-10-19 19:13:48 [scrapy.downloadermiddlewares.retry] DEBUG: Retrying <GET http://192.168.140.238/w3school/www.w3schools.com/react> (failed 1 times): TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2024-10-19 19:14:09,334 - INFO - 2024-10-19 19:14:09 [scrapy.downloadermiddlewares.retry] DEBUG: Retrying <GET http://192.168.140.238/w3school/www.w3schools.com/react> (failed 2 times): TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2024-10-19 19:14:27,027 - INFO - 2024-10-19 19:14:27 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2024-10-19 19:14:30,370 - INFO - 2024-10-19 19:14:30 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://192.168.140.238/w3school/www.w3schools.com/react> (failed 3 times): TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2024-10-19 19:14:30,544 - INFO - 2024-10-19 19:14:30 [scrapy.core.scraper] ERROR: Error downloading <GET http://192.168.140.238/w3school/www.w3schools.com/react>
+2024-10-19 19:14:30,544 - INFO - Traceback (most recent call last):
+2024-10-19 19:14:30,545 - INFO - File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\scrapy\core\downloader\middleware.py", line 54, in process_request
+2024-10-19 19:14:30,545 - INFO - return (yield download_func(request=request, spider=spider))
+2024-10-19 19:14:30,545 - INFO - twisted.internet.error.TCPTimedOutError: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2024-10-19 19:14:30,676 - INFO - 2024-10-19 19:14:30 [scrapy.core.engine] INFO: Closing spider (finished)
+2024-10-19 19:14:30,676 - INFO - 2024-10-19 19:14:30 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+2024-10-19 19:14:30,677 - INFO - {'downloader/exception_count': 3,
+2024-10-19 19:14:30,677 - INFO - 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 3,
+2024-10-19 19:14:30,678 - INFO - 'downloader/request_bytes': 969,
+2024-10-19 19:14:30,678 - INFO - 'downloader/request_count': 3,
+2024-10-19 19:14:30,679 - INFO - 'downloader/request_method_count/GET': 3,
+2024-10-19 19:14:30,679 - INFO - 'elapsed_time_seconds': 63.662706,
+2024-10-19 19:14:30,679 - INFO - 'finish_reason': 'finished',
+2024-10-19 19:14:30,680 - INFO - 'finish_time': datetime.datetime(2024, 10, 20, 2, 14, 30, 675162, tzinfo=datetime.timezone.utc),
+2024-10-19 19:14:30,680 - INFO - 'log_count/DEBUG': 7,
+2024-10-19 19:14:30,681 - INFO - 'log_count/ERROR': 2,
+2024-10-19 19:14:30,681 - INFO - 'log_count/INFO': 12,
+2024-10-19 19:14:30,681 - INFO - 'retry/count': 2,
+2024-10-19 19:14:30,682 - INFO - 'retry/max_reached': 1,
+2024-10-19 19:14:30,682 - INFO - 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 2,
+2024-10-19 19:14:30,682 - INFO - 'scheduler/dequeued': 3,
+2024-10-19 19:14:30,683 - INFO - 'scheduler/dequeued/memory': 3,
+2024-10-19 19:14:30,683 - INFO - 'scheduler/enqueued': 3,
+2024-10-19 19:14:30,683 - INFO - 'scheduler/enqueued/memory': 3,
+2024-10-19 19:14:30,683 - INFO - 'start_time': datetime.datetime(2024, 10, 20, 2, 13, 27, 12456, tzinfo=datetime.timezone.utc)}
+2024-10-19 19:14:30,684 - INFO - 2024-10-19 19:14:30 [scrapy.core.engine] INFO: Spider closed (finished)

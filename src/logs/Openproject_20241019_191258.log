@@ -1,0 +1,10 @@
+2024-10-19 19:17:57,055 - INFO - Traceback (most recent call last):
+2024-10-19 19:17:57,056 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 25, in <module>
+2024-10-19 19:17:57,056 - INFO - from _pydevd_bundle import pydevd_constants
+2024-10-19 19:17:57,057 - INFO - File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-10-19 19:17:57,058 - INFO - File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-10-19 19:17:57,059 - INFO - File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-10-19 19:17:57,059 - INFO - File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+2024-10-19 19:17:57,255 - INFO - File "<frozen importlib._bootstrap_external>", line 1087, in get_code
+2024-10-19 19:17:57,256 - INFO - File "<frozen importlib._bootstrap_external>", line 1186, in get_data
+2024-10-19 19:17:57,256 - INFO - KeyboardInterrupt

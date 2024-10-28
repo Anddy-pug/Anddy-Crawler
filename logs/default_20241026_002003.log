@@ -1,0 +1,383 @@
+2024-10-26 00:20:04,324 - INFO - 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+2024-10-26 00:20:04,324 - INFO - 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+2024-10-26 00:20:04,325 - INFO - 0.00s - to python to disable frozen modules.
+2024-10-26 00:20:04,325 - INFO - 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-26 00:20:13,996 - INFO - Error: Unable to access jarfile tika-server.jar
+2024-10-26 00:20:18,416 - INFO - Tika Server started on port 9998
+2024-10-26 00:21:32,753 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\1.avi
+2024-10-26 00:21:32,754 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\1.jpg
+2024-10-26 00:21:32,754 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\1.pdf
+2024-10-26 00:21:32,755 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\1.pptx
+2024-10-26 00:21:32,755 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\10137.jpg
+2024-10-26 00:21:32,755 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\DevOps_UserGuideForRHELsystem.docx
+2024-10-26 00:21:32,755 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\ge-64-_jpg.rf.abf41148d53b29415c1ba7676c54db83.jpg
+2024-10-26 00:21:32,756 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\oauth.png
+2024-10-26 00:21:32,756 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\procs and cons.pptx
+2024-10-26 00:21:32,756 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\robots.txt
+2024-10-26 00:21:32,756 - INFO - Unsupported file type: .txt
+2024-10-26 00:21:32,756 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\run.PNG
+2024-10-26 00:21:32,757 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\Screenshot 2024-05-21 065623.png
+2024-10-26 00:21:32,757 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\1.pdf
+2024-10-26 00:21:32,757 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\1.pptx
+2024-10-26 00:21:32,757 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\1494870C-9912-C184-4CC9-B401-A53F4D8DE290.pdf
+2024-10-26 00:21:32,758 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\2021-whistleblowing-policy-eu-uk.pdf
+2024-10-26 00:21:32,758 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\A Philosophy of Software Design (2018).pdf
+2024-10-26 00:21:32,758 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\a-strategic-guide-to-putting-your-data-to-work-in-public-sector.pdf
+2024-10-26 00:21:32,758 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\A12_CrossLarge_24_N.pdf
+2024-10-26 00:21:32,759 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-26 00:21:32,759 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-26 00:21:32,759 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-26 00:21:32,759 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-26 00:21:32,759 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy.pdf
+2024-10-26 00:21:32,760 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy.pdf
+2024-10-26 00:21:32,760 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy - Copy.pdf
+2024-10-26 00:21:32,760 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.js - Copy.pdf
+2024-10-26 00:21:32,760 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\About react.pdf
+2024-10-26 00:21:32,761 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\access-phpmyadmin-remotely.pdf
+2024-10-26 00:21:32,761 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\activate-use-xdebug.pdf
+2024-10-26 00:21:32,761 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Adobe Acrobat Pro DC.pdf
+2024-10-26 00:21:32,761 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Adobe Cloud Services.pdf
+2024-10-26 00:21:32,761 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Adobe Sign White Paper.pdf
+2024-10-26 00:21:32,762 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\AdobeID.pdf
+2024-10-26 00:21:32,762 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Advanced Web Application Architecture-Noback's Office (2020).pdf
+2024-10-26 00:21:32,762 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Agile Modeling with UML-Springer (2017).pdf
+2024-10-26 00:21:32,762 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\anti-bribery-and-gifts-and-entertainment-policy.pdf
+2024-10-26 00:21:32,763 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Aqua Marketing Plan _ by Slidesgo.pptx
+2024-10-26 00:21:32,763 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\ArchiMate 3.0 User_Guide(ja) (2019).pdf
+2024-10-26 00:21:32,763 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry.3.pdf
+2024-10-26 00:21:32,764 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry_acl.3.pdf
+2024-10-26 00:21:32,764 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry_linkify.3.pdf
+2024-10-26 00:21:32,764 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry_misc.3.pdf
+2024-10-26 00:21:32,764 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry_paths.3.pdf
+2024-10-26 00:21:32,765 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry_perms.3.pdf
+2024-10-26 00:21:32,765 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry_stat.3.pdf
+2024-10-26 00:21:32,765 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_entry_time.3.pdf
+2024-10-26 00:21:32,765 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read.3.pdf
+2024-10-26 00:21:32,766 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_add_passphrase.3.pdf
+2024-10-26 00:21:32,766 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_data.3.pdf
+2024-10-26 00:21:32,766 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_disk.3.pdf
+2024-10-26 00:21:32,766 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_extract.3.pdf
+2024-10-26 00:21:32,767 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_filter.3.pdf
+2024-10-26 00:21:32,767 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_format.3.pdf
+2024-10-26 00:21:32,767 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_free.3.pdf
+2024-10-26 00:21:32,768 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_header.3.pdf
+2024-10-26 00:21:32,768 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_new.3.pdf
+2024-10-26 00:21:32,768 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_open.3.pdf
+2024-10-26 00:21:32,768 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_read_set_options.3.pdf
+2024-10-26 00:21:32,769 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_util.3.pdf
+2024-10-26 00:21:32,769 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write.3.pdf
+2024-10-26 00:21:32,769 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_blocksize.3.pdf
+2024-10-26 00:21:32,769 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_data.3.pdf
+2024-10-26 00:21:32,769 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_disk.3.pdf
+2024-10-26 00:21:32,770 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_filter.3.pdf
+2024-10-26 00:21:32,770 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_finish_entry.3.pdf
+2024-10-26 00:21:32,770 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_format.3.pdf
+2024-10-26 00:21:32,770 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_free.3.pdf
+2024-10-26 00:21:32,770 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_header.3.pdf
+2024-10-26 00:21:32,771 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_new.3.pdf
+2024-10-26 00:21:32,771 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_open.3.pdf
+2024-10-26 00:21:32,771 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_set_options.3.pdf
+2024-10-26 00:21:32,771 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\archive_write_set_passphrase.3.pdf
+2024-10-26 00:21:32,771 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\auto-start-xampp.pdf
+2024-10-26 00:21:32,772 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\backup-restore-mysql.pdf
+2024-10-26 00:21:32,772 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\blackhat-martins-softbank-bellcanada-2020.pdf
+2024-10-26 00:21:32,772 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\bsdcpio.1.pdf
+2024-10-26 00:21:32,772 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\bsdtar.1.pdf
+2024-10-26 00:21:32,772 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\building-great-search-experiences-with-search-ui.pdf
+2024-10-26 00:21:32,773 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Bus Schedule.pdf
+2024-10-26 00:21:32,773 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\bzip2-format.pdf
+2024-10-26 00:21:43,359 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\change-mysql-temp-dir.pdf
+2024-10-26 00:21:43,359 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Chapter+1_+Introduction+to+PDF+Processing+in+Python.pdf
+2024-10-26 00:21:43,360 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Click on 'Change' to select default PDF handler.pdf
+2024-10-26 00:21:43,360 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\CompareMarkers.pdf
+2024-10-26 00:21:43,360 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Complex Machine.pdf
+2024-10-26 00:21:43,361 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\compressed.tracemonkey-pldi-09.pdf
+2024-10-26 00:21:43,361 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\configure-use-tomcat.pdf
+2024-10-26 00:21:43,361 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\configure-vhosts.pdf
+2024-10-26 00:21:43,361 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\configure-wildcard-subdomains.pdf
+2024-10-26 00:21:43,362 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\coversheet.pdf
+2024-10-26 00:21:43,362 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\cpio.5.pdf
+2024-10-26 00:21:43,362 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\create-a-differentiated-buyer-journey.pdf
+2024-10-26 00:21:43,362 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\create-framework-project-zf1.pdf
+2024-10-26 00:21:43,362 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\create-framework-project-zf2.pdf
+2024-10-26 00:21:43,363 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\cyber-essentials-plus-certificate-of-assurance-uk-ce-certificate.pdf
+2024-10-26 00:21:43,363 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\default.pdf
+2024-10-26 00:21:43,363 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\DefaultID.pdf
+2024-10-26 00:21:43,363 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\deploy-git-app.pdf
+2024-10-26 00:21:43,364 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\DevOps_UserGuideForUbuntuSystem.pdf
+2024-10-26 00:21:43,364 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\duplicate_xref_entry.pdf
+2024-10-26 00:21:43,364 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Dynamic.pdf
+2024-10-26 00:21:43,364 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\ECLAP_Proceedingspdf5185_Allasia.pdf
+2024-10-26 00:21:43,364 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-10-takeaways-for-cisos-from-2023-global-threat-report.pdf
+2024-10-26 00:21:43,365 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-cash-in-on-your-wealth-of-data.pdf
+2024-10-26 00:21:43,365 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-cdm-and-beyond-2021-10-15.pdf
+2024-10-26 00:21:43,365 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-cdm-dashboard-fed-gov-2021-10-15.pdf
+2024-10-26 00:21:43,365 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-cloud-security-guide.pdf
+2024-10-26 00:21:43,366 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-cloud-soc-3.pdf
+2024-10-26 00:21:43,366 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-code-of-business-conduct-and-ethics.pdf
+2024-10-26 00:21:43,366 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-csa-star-certificate-award-2023-11-20.pdf
+2024-10-26 00:21:43,366 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-customer-story-georgia-state-university.pdf
+2024-10-26 00:21:43,366 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-cut-your-costs-by-migrating-from-splunk-to-elastic.pdf
+2024-10-26 00:21:43,367 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-data-as-a-force-multiplier.pdf
+2024-10-26 00:21:43,367 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-drive-a-secure-and-personalized-experience-in-banking-and-payments.pdf
+2024-10-26 00:21:43,367 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-ebook-data-building-blocks-for-an-observability-solution.pdf
+2024-10-26 00:21:43,367 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-elasticsearch-engineer.pdf
+2024-10-26 00:21:43,368 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-elasticsearch-outperforms-opensearch-while-using-fewer-resources.pdf
+2024-10-26 00:21:43,368 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-environmental-policy-2023.pdf
+2024-10-26 00:21:43,368 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-forrester-total-economic-impact-of-elastic-2021-november.pdf
+2024-10-26 00:21:43,369 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-global-vendor-code-of-conduct.pdf
+2024-10-26 00:21:43,370 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-how-a-european-police-force-hunts-for-digital-threats-with-elastic.pdf
+2024-10-26 00:21:43,370 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-information-security-addendum-consolidated-v030121-3.pdf
+2024-10-26 00:21:43,370 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-modern-slavery-and-human-trafficking-statement.pdf
+2024-10-26 00:21:43,370 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-network-slicing-done-right-with-elastic.pdf
+2024-10-26 00:21:43,371 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-observability-quick-guide-for-aws.pdf
+2024-10-26 00:21:43,371 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-pci-dss-v-3-2-1-aoc-sp-2024.pdf
+2024-10-26 00:21:43,371 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-bigid-tames-massive-data-growth-with-elastic.pdf
+2024-10-26 00:21:43,371 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-discover-financial-services-cuts-storage-costs-accelerates-data-retrieval-with-elastic-observability.pdf
+2024-10-26 00:21:43,371 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-french-civil-security-digital-agency-ansc.pdf
+2024-10-26 00:21:43,372 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-kpn-defends-the-business-from-malware-and-ransomware.pdf
+2024-10-26 00:21:43,372 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-porsche-informatik-increases-performance-for-end-customer-relevant-applications.pdf
+2024-10-26 00:21:43,372 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-reed-co-uk-helps-people-find-jobs-they-love-and-want-with-elasticsearch.pdf
+2024-10-26 00:21:43,372 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-southern-cross-austereo-sca-amplifies-listnr-podcasting-platform-reach.pdf
+2024-10-26 00:21:43,373 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-texax-am-university-system-protects-students-emergency-responders.pdf
+2024-10-26 00:21:43,373 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-thg-gains-peace-of-mind-for-millions-of-ecommerce-customers.pdf
+2024-10-26 00:21:43,373 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-wells-fargo-accelerates-digital-innovation.pdf
+2024-10-26 00:21:43,373 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-success-story-world-leader-in-energy-and-construction-maximises-value-and-protection.pdf
+2024-10-26 00:21:43,373 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-support-soc-3.pdf
+2024-10-26 00:21:43,374 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elastic-why-elastic-for-modern-unified-observability.pdf
+2024-10-26 00:21:43,374 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elasticsearch-iso-27001-27017-27018-certificate-award-2023-11-20.pdf
+2024-10-26 00:21:43,374 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elasticsearch-sizing-and-capacity-planning.pdf
+2024-10-26 00:21:43,374 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\elk-for-logging-q-and-a.pdf
+2024-10-26 00:21:43,374 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\ema-impact-brief-elastic-security-for-cloud-next-step-in-securing-cloud-and-hybrid-environments.pdf
+2024-10-26 00:21:43,375 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Faces.pdf
+2024-10-26 00:21:43,375 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\FFmpeg_Build.pdf
+2024-10-26 00:21:43,375 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\FFMPEG_Notice.pdf
+2024-10-26 00:21:59,201 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\getting-started-with-alerting-for-the-elastic-stack.pdf
+2024-10-26 00:21:59,201 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\gov-summit-2019-cloud-orchestration-fedramp-beyond.pdf
+2024-10-26 00:21:59,202 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\hand.pdf
+2024-10-26 00:21:59,203 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\how-to-draw-a-component-diagram-in-uml.pdf
+2024-10-26 00:21:59,203 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\IGCC_Legal_License.PDF
+2024-10-26 00:21:59,203 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\increase-php-file-upload-limit.pdf
+2024-10-26 00:21:59,203 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\infographic-elastic-how-does-search-powered-technology-solve-data-challenges.pdf
+2024-10-26 00:21:59,204 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\infographic-elastic-security-labs-adversary-methods-2023-global-threat-report.pdf
+2024-10-26 00:21:59,204 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Installation SSL certificates for OpenMeetings 7.2.0 on Ubuntu 24.04 lts.pdf
+2024-10-26 00:21:59,204 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\international-trade-compliance-external-export-control-report.pdf
+2024-10-26 00:21:59,204 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\international-trade-policy.pdf
+2024-10-26 00:21:59,205 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\introduction-to-esql.pdf
+2024-10-26 00:21:59,205 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\introduction-to-logging-with-the-elk-stack.pdf
+2024-10-26 00:21:59,205 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Kayson-Infographic-Charts-Super-Kit-By-Slidecore-ajxxds.pptx
+2024-10-26 00:21:59,205 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\keeping-data-actionable-in-a-zero-trust-architecture.pdf
+2024-10-26 00:21:59,205 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\kibana-data-analyst.pdf
+2024-10-26 00:21:59,206 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\libarchive-formats.5.pdf
+2024-10-26 00:21:59,206 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\libarchive.3.pdf
+2024-10-26 00:21:59,206 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\libarchive_changes.3.pdf
+2024-10-26 00:21:59,206 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\libarchive_internals.3.pdf
+2024-10-26 00:21:59,207 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\loader.pdf
+2024-10-26 00:21:59,207 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\man-461.pdf
+2024-10-26 00:21:59,207 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\mancha.pdf
+2024-10-26 00:21:59,207 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\manual.pdf
+2024-10-26 00:21:59,208 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\matplotlib.pdf
+2024-10-26 00:21:59,208 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Modern Data Stack_implement.pptx
+2024-10-26 00:21:59,208 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\mtree.5.pdf
+2024-10-26 00:21:59,208 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Notice.pdf
+2024-10-26 00:21:59,209 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\openshift-webinar.pdf
+2024-10-26 00:21:59,209 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper.pdf
+2024-10-26 00:21:59,209 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_CHS.pdf
+2024-10-26 00:21:59,209 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_CHT.pdf
+2024-10-26 00:21:59,209 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_CZE.pdf
+2024-10-26 00:21:59,210 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_DAN.pdf
+2024-10-26 00:21:59,210 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_DEU.pdf
+2024-10-26 00:21:59,210 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_ESP.pdf
+2024-10-26 00:21:59,210 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_FRA.pdf
+2024-10-26 00:21:59,211 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_HUN.pdf
+2024-10-26 00:21:59,211 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_ITA.pdf
+2024-10-26 00:21:59,211 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_JPN.pdf
+2024-10-26 00:21:59,212 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_KOR.pdf
+2024-10-26 00:21:59,212 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_NLD.pdf
+2024-10-26 00:21:59,212 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_NOR.pdf
+2024-10-26 00:21:59,212 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_POL.pdf
+2024-10-26 00:21:59,212 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_PTB.pdf
+2024-10-26 00:21:59,213 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_SKY.pdf
+2024-10-26 00:21:59,213 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_SLV.pdf
+2024-10-26 00:21:59,213 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_SUO.pdf
+2024-10-26 00:21:59,213 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_SVE.pdf
+2024-10-26 00:21:59,213 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_TUR.pdf
+2024-10-26 00:21:59,214 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pagezerowrapper_UKR.pdf
+2024-10-26 00:21:59,214 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pdf.pdf
+2024-10-26 00:21:59,214 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\PDFSigQFormalRep.pdf
+2024-10-26 00:21:59,214 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\pdf_demo.pdf
+2024-10-26 00:21:59,214 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Pointers.pdf
+2024-10-26 00:21:59,215 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Process Modeling using UML.pdf
+2024-10-26 00:21:59,215 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Project_Notebook.ja.xlsx
+2024-10-26 00:21:59,215 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Project_Notebook.xlsx
+2024-10-26 00:21:59,215 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\python_tutorial.pdf
+2024-10-26 00:21:59,215 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\ReferenceCard.pdf
+2024-10-26 00:21:59,216 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\ReferenceCardForMac.pdf
+2024-10-26 00:21:59,216 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\reset-mysql-password.pdf
+2024-10-26 00:21:59,216 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\sample.docx
+2024-10-26 00:21:59,216 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\sample.pptx
+2024-10-26 00:21:59,217 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Scientific findings presentation.pptx
+2024-10-26 00:21:59,217 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\SECURITY_AUDIT.pdf
+2024-10-26 00:21:59,217 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\send-mail.pdf
+2024-10-26 00:21:59,217 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\serverStartup.pdf
+2024-10-26 00:21:59,218 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\shattered-1.pdf
+2024-10-26 00:21:59,218 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\shattered-2.pdf
+2024-10-26 00:21:59,218 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\SignHere.pdf
+2024-10-26 00:21:59,218 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\speed-time-to-insight-with-real-time-search-and-analytics-in-the-cloud.pdf
+2024-10-26 00:21:59,218 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Standard.pdf
+2024-10-26 00:21:59,219 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\StandardBusiness.pdf
+2024-10-26 00:21:59,219 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\start-with-open-source-scale-with-an-elastic-subscription.pdf
+2024-10-26 00:21:59,219 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\SystemInstall$UserGuide.pdf
+2024-10-26 00:21:59,219 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\tar.5.pdf
+2024-10-26 00:21:59,219 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\TChannelDataList(2024).xlsx
+2024-10-26 00:21:59,220 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Teamlab_Migration_to_v6.5.pdf
+2024-10-26 00:21:59,220 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\template1.pdf
+2024-10-26 00:21:59,220 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\template2.pdf
+2024-10-26 00:22:14,960 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\template3.pdf
+2024-10-26 00:22:14,961 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\test-input.pdf
+2024-10-26 00:22:14,961 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Teste2.pdf
+2024-10-26 00:22:14,961 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\testrail-license-en.pdf
+2024-10-26 00:22:14,962 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Toolset (1).xlsx
+2024-10-26 00:22:14,962 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\ToolsSpecification.xlsx
+2024-10-26 00:22:14,963 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\transfer-files-ftp.pdf
+2024-10-26 00:22:14,963 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Translations.xlsx
+2024-10-26 00:22:14,963 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\troubleshoot-apache.pdf
+2024-10-26 00:22:14,964 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\UItestRanorex_20240725_200057.pdf
+2024-10-26 00:22:14,964 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\UML @ Classroom An Introduction to Object-Oriented Modeling (pdf).pdf
+2024-10-26 00:22:14,964 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\UML ERP Workshop-Leanpub book (2021).pdf
+2024-10-26 00:22:14,964 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\use-case-brief-elastic-security-siem-powers-investigation-and-response.pdf
+2024-10-26 00:22:14,965 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\use-different-php-version.pdf
+2024-10-26 00:22:14,965 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\use-php-fcgi.pdf
+2024-10-26 00:22:14,965 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\use-sqlite.pdf
+2024-10-26 00:22:14,965 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\UserGuide_vp.pdf
+2024-10-26 00:22:14,966 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\UserManual.PDF
+2024-10-26 00:22:14,966 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\v100623-0-elastic-customer-dpa.pdf
+2024-10-26 00:22:14,966 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\wakefield-research-white-paper-for-elastic.pdf
+2024-10-26 00:22:14,966 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Web-Devops.docx
+2024-10-26 00:22:14,967 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\whistleblowing-policy.pdf
+2024-10-26 00:22:14,967 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\white-paper-of-gdpr-compliance-with-elastic-and-the-elastic-stack.pdf
+2024-10-26 00:22:14,967 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\Words.pdf
+2024-10-26 00:22:14,968 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\xflate-format.pdf
+2024-10-26 00:22:15,150 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\1 - 3 Activity diagram.docx
+2024-10-26 00:22:15,151 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\1 - 4 communication diagram.docx
+2024-10-26 00:22:15,152 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\1 - 5 state machine diagram.docx
+2024-10-26 00:22:15,153 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\1. Standard notations for Deep Learning.pdf
+2024-10-26 00:22:15,154 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\101 UX PRINCIPLES 2nd-PACKT (2022).pdf
+2024-10-26 00:22:15,154 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\2. Binary_Classification.pdf
+2024-10-26 00:22:15,154 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\200+ Excel Formulas and Functions-BPB Publications (2023).pdf
+2024-10-26 00:22:15,155 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\20210118192409!Moodle_features_students.pdf
+2024-10-26 00:22:15,155 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\20220111123247!Moodle_features_students.pdf
+2024-10-26 00:22:15,155 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\20221229110756!Moodle_features_students.pdf
+2024-10-26 00:22:15,156 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\20230611090918!Moodle_features_students.pdf
+2024-10-26 00:22:15,156 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\24 Patterns for Clean Code. Techniques for Faster, Safer Code with Minimal Debugging.pdf
+2024-10-26 00:22:15,156 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\3. Logistic_Regression.pdf
+2024-10-26 00:22:15,156 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\30-days-of-react-ebook-fullstackio.pdf
+2024-10-26 00:22:15,156 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\4. Logistic_Regression_Cost_Function.pdf
+2024-10-26 00:22:15,157 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\5.19task.docx
+2024-10-26 00:22:15,157 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A comprehensive list of Mobile DevOps tools for building, testing, and deploying high quality apps.pdf
+2024-10-26 00:22:15,157 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A Developer's Essential Guide to Docker Compose-Packt (2022).pdf
+2024-10-26 00:22:15,157 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A guide to getting started in devops.pdf
+2024-10-26 00:22:15,157 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A Guide to UX Design and Development-Apress (2023).pdf
+2024-10-26 00:22:15,158 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A Philosophy of Software Design (2018).pdf
+2024-10-26 00:22:15,158 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A Practical Guide to Database Design-CRC Press (2018).pdf
+2024-10-26 00:22:15,158 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A Project Guide to UX_ For User Experience Designers in the Field or in the Making-New Riders (2023).pdf
+2024-10-26 00:22:15,158 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A Psychology of User Experience-Springer (2023).pdf
+2024-10-26 00:22:15,159 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\A Survey on Single Sign-On Techniques.pdf
+2024-10-26 00:22:15,159 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\About TTS.docx
+2024-10-26 00:22:15,159 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\AboutImageCaptioning.docx
+2024-10-26 00:22:15,159 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\access.docx
+2024-10-26 00:22:15,159 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Activation Functions in Neural Networks [12 Types & Use Cases](2021).pdf
+2024-10-26 00:22:15,160 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Activity Diagram Examples.docx
+2024-10-26 00:22:15,160 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\activity diagram.docx
+2024-10-26 00:22:15,160 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\adevait_com_laravel_how_to_use_laravel_with_oracle_database.pdf
+2024-10-26 00:22:15,160 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Advanced Certified ScrumMaster.pdf
+2024-10-26 00:22:15,160 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Advanced Web Application Architecture-Noback's Office (2020).pdf
+2024-10-26 00:22:15,161 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Advances in Industry 4.0-DE GRUYTER (2022).pdf
+2024-10-26 00:22:15,161 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Agile 2_ The Next Iteration of Agile-Wiley (2021).pdf
+2024-10-26 00:22:15,161 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Agile Leadership for Industry 4.0 (2023).pdf
+2024-10-26 00:22:15,161 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Agile Modeling with UML-Springer (2017).pdf
+2024-10-26 00:22:15,162 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Agile Security Operations-Packt Publishing (2022).pdf
+2024-10-26 00:22:15,162 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Agile Software Development-Wiley (2023).pdf
+2024-10-26 00:22:15,162 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Agile Software Engineering Skills-Springer (2023).pdf
+2024-10-26 00:22:15,162 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Agile Transformation, 2nd (2023).pdf
+2024-10-26 00:22:15,162 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\AI For Decision Making-Business Strategies And Applications.pdf
+2024-10-26 00:23:45,678 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\AI(Image-Search-Comments).docx
+2024-10-26 00:23:45,679 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\An Integrated Company-Wide Management System-Springer (2019).pdf
+2024-10-26 00:23:45,680 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\An Introduction to Programming in Go-Caleb-2012.pdf
+2024-10-26 00:23:45,680 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\An Introduction to Software Design_ Concepts, Principles, Methodologies, and Techniques-Springer (2023).pdf
+2024-10-26 00:23:45,681 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\An Introduction to System Software-Alpha Science (2021).pdf
+2024-10-26 00:23:45,681 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\An Intuitive Introduction to Finance and Derivatives-Springer (2023).pdf
+2024-10-26 00:23:45,681 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Ansible for DevOps-Ruboss (2023).pdf
+2024-10-26 00:23:45,682 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\ANT vs Maven vs Gradle. Before getting into ANT, Maven or… _ by Raman Bhadauria _ Medium.pdf
+2024-10-26 00:23:45,682 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\API Design Patterns-Manning (2021).pdf
+2024-10-26 00:23:45,682 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\API Testing and Development with Postman-Packt (2021).pdf
+2024-10-26 00:23:45,683 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\App Design Apprentice _ A Non-Designer's Guide to Making Better Mobile UI & UX (2022).pdf
+2024-10-26 00:23:45,683 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Apply Data Science-Springer (2023).pdf
+2024-10-26 00:23:45,683 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Archi User Guide.pdf
+2024-10-26 00:23:45,684 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\ArchiMate 3.0 User_Guide(ja) (2019).pdf
+2024-10-26 00:23:45,684 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\ArchiMate-Cookbook (2022).pdf
+2024-10-26 00:23:45,684 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\archimate-cookbook-patterns-examples-5988711.pdf
+2024-10-26 00:23:45,685 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\ArtifactRepository(comments).docx
+2024-10-26 00:23:45,685 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Artificial Intelligence Engineer V6.pdf
+2024-10-26 00:23:45,685 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Artificial Intelligence for Cloud and Edge Computing-Springer (2022).pdf
+2024-10-26 00:23:45,686 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Artificial Intelligence in Digital Holographic Imaging-Wiley (2023).pdf
+2024-10-26 00:23:45,686 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Artificial_intelligence_in_cybersecu.pdf
+2024-10-26 00:23:45,687 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Assistant_for_the_Evaluation_of_Software_Product_Quality_Characteristics_Proposed_by_ISO_IEC_25010_Based_on_GQM-Defined_Metrics.pdf
+2024-10-26 00:23:45,687 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Attention Is All You Need.pdf
+2024-10-26 00:23:45,688 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Augmented and Virtual Reality in Industry 5.0-De Gruyter (2023).pdf
+2024-10-26 00:23:45,688 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Automating DevOps with GitLab CI_CD Pipelines-Packt (2023).pdf
+2024-10-26 00:23:45,689 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Automation Test Engineer.pdf
+2024-10-26 00:23:45,689 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\AWS Certification Training Course for Solutions Architect.pdf
+2024-10-26 00:23:45,690 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\AWS Cloud Architect_Slimup_v3.pdf
+2024-10-26 00:23:45,690 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Azure Cloud Architect.pdf
+2024-10-26 00:23:45,690 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Azure DevOps Solutions Expert.pdf
+2024-10-26 00:23:45,691 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\azure-architecture-ja.pdf
+2024-10-26 00:23:45,691 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\azure-architecture.pdf
+2024-10-26 00:23:45,692 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\bank.docx
+2024-10-26 00:23:45,692 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\BART Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(2019).pdf
+2024-10-26 00:23:45,693 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Beautiful C++_ 30 Core Guidelines for Writing Clean, Safe, and Fast Code-Wesley (2021).pdf
+2024-10-26 00:23:45,693 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Becoming an Agile Software Architect-Packt Publishing (2021).pdf
+2024-10-26 00:23:45,693 - INFO - Processing makeing thumbnails: \\192.168.140.236\search_target\document\246_data\Beginning Database Design Solutions-Wiley (2023).pdf
+2024-10-26 00:23:45,694 - INFO - Backend tkagg is interactive backend. Turning interactive mode on.
+2024-10-26 00:23:45,694 - INFO - Traceback (most recent call last):
+2024-10-26 00:23:45,695 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymupdf\__init__.py", line 2820, in __init__
+2024-10-26 00:23:45,695 - INFO - doc = mupdf.fz_open_document(filename)
+2024-10-26 00:23:45,695 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-26 00:23:45,696 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymupdf\mupdf.py", line 44274, in fz_open_document
+2024-10-26 00:23:45,701 - INFO - return _mupdf.fz_open_document(filename)
+2024-10-26 00:23:45,702 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-26 00:23:45,703 - INFO - pymupdf.mupdf.FzErrorFormat: code=7: unknown encryption handler: 'DCTDecode'
+2024-10-26 00:23:45,703 - INFO - 
+2024-10-26 00:23:45,704 - INFO - The above exception was the direct cause of the following exception:
+2024-10-26 00:23:45,704 - INFO - 
+2024-10-26 00:23:45,705 - INFO - Traceback (most recent call last):
+2024-10-26 00:23:45,705 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 3713, in <module>
+2024-10-26 00:23:45,705 - INFO - main()
+2024-10-26 00:23:45,706 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 3706, in main
+2024-10-26 00:23:45,707 - INFO - globals = debugger.run(setup["file"], None, None, is_module)
+2024-10-26 00:23:45,710 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-26 00:23:45,710 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 2704, in run
+2024-10-26 00:23:45,711 - INFO - return self._exec(is_module, entry_point_fn, module_name, file, globals, locals)
+2024-10-26 00:23:45,714 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-26 00:23:45,714 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 2712, in _exec
+2024-10-26 00:23:45,716 - INFO - globals = pydevd_runpy.run_path(file, globals, "__main__")
+2024-10-26 00:23:45,718 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-26 00:23:45,718 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 310, in run_path
+2024-10-26 00:23:45,719 - INFO - return _run_module_code(code, init_globals, run_name, pkg_name=pkg_name, script_name=fname)
+2024-10-26 00:23:45,722 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-26 00:23:45,723 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 127, in _run_module_code
+2024-10-26 00:23:45,723 - INFO - _run_code(code, mod_globals, init_globals, mod_name, mod_spec, pkg_name, script_name)
+2024-10-26 00:23:45,723 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 118, in _run_code
+2024-10-26 00:23:45,724 - INFO - exec(code, run_globals)
+2024-10-26 00:23:45,724 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\../src/crawler_file/monitor.py", line 123, in <module>
+2024-10-26 00:23:45,725 - INFO - thumbnail_gen.crawl_directory_and_create_thumbnails(directory)
+2024-10-26 00:23:45,725 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\crawler_file\thumbnail_maker\thumbnail.py", line 295, in crawl_directory_and_create_thumbnails
+2024-10-26 00:23:45,725 - INFO - self.create_thumbnail_from_path(file_path, directory_path)
+2024-10-26 00:23:45,726 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\crawler_file\thumbnail_maker\thumbnail.py", line 253, in create_thumbnail_from_path
+2024-10-26 00:23:45,726 - INFO - self.create_pdf_thumbnail(file_path, directory_path)
+2024-10-26 00:23:45,726 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\crawler_file\thumbnail_maker\thumbnail.py", line 24, in create_pdf_thumbnail
+2024-10-26 00:23:45,727 - INFO - pdf_document = fitz.open(file)
+2024-10-26 00:23:45,727 - INFO - ^^^^^^^^^^^^^^^
+2024-10-26 00:23:45,728 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymupdf\__init__.py", line 2823, in __init__
+2024-10-26 00:23:45,728 - INFO - raise FileDataError(f'Failed to open file {filename!r}.') from e
+2024-10-26 00:23:45,728 - INFO - pymupdf.FileDataError: Failed to open file '\\\\192.168.140.236\\search_target\\document\\246_data\\Beginning Database Design Solutions-Wiley (2023).pdf'.

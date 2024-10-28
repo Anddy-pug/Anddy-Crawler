@@ -1,0 +1,942 @@
+2024-10-25 23:01:18,637 - INFO - 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+2024-10-25 23:01:18,637 - INFO - 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+2024-10-25 23:01:18,638 - INFO - 0.00s - to python to disable frozen modules.
+2024-10-25 23:01:18,638 - INFO - 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-25 23:01:21,990 - INFO - Error: Unable to access jarfile tika-server.jar
+2024-10-25 23:01:26,776 - INFO - Tika Server started on port 9998
+2024-10-25 23:01:26,842 - INFO - Execution time: 0h 0m 0.00s
+2024-10-25 23:01:26,848 - INFO - Monitoring changes in: \\192.168.140.236\search_target
+2024-10-25 23:01:41,478 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.0ba222cce219e2157f9153769554f048.jpg
+2024-10-25 23:01:41,668 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.0ba222cce219e2157f9153769554f048.jpg
+2024-10-25 23:01:43,851 - INFO - 2024-10-25 23:01:43,850 [Thread-6    ] [WARNI]  Failed to see startup log message; retrying...
+2024-10-25 23:01:55,188 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-1-_jpg.rf.0ba222cce219e2157f9153769554f048.jpg_0.[39m
+2024-10-25 23:01:55,228 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-1-_jpg.rf.0ba222cce219e2157f9153769554f048.jpg_0.[39m
+2024-10-25 23:01:55,228 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.0ba222cce219e2157f9153769554f048.jpg
+2024-10-25 23:01:55,229 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.5d471fa2e9aa6ccefa2c01d21409cfee.jpg
+2024-10-25 23:01:55,265 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.5d471fa2e9aa6ccefa2c01d21409cfee.jpg
+2024-10-25 23:01:58,532 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-1-_jpg.rf.5d471fa2e9aa6ccefa2c01d21409cfee.jpg_0.[39m
+2024-10-25 23:01:58,533 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-1-_jpg.rf.5d471fa2e9aa6ccefa2c01d21409cfee.jpg_0.[39m
+2024-10-25 23:01:58,534 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.5d471fa2e9aa6ccefa2c01d21409cfee.jpg
+2024-10-25 23:01:58,535 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.de2b9f28fdf0d73457c69582544c6358.jpg
+2024-10-25 23:01:58,599 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.de2b9f28fdf0d73457c69582544c6358.jpg
+2024-10-25 23:02:01,922 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-1-_jpg.rf.de2b9f28fdf0d73457c69582544c6358.jpg_0.[39m
+2024-10-25 23:02:01,922 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-1-_jpg.rf.de2b9f28fdf0d73457c69582544c6358.jpg_0.[39m
+2024-10-25 23:02:01,922 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-1-_jpg.rf.de2b9f28fdf0d73457c69582544c6358.jpg
+2024-10-25 23:02:01,923 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.4c8ff85b5771255de3affff2b6341c67.jpg
+2024-10-25 23:02:01,965 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.4c8ff85b5771255de3affff2b6341c67.jpg
+2024-10-25 23:02:05,734 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-10-_jpg.rf.4c8ff85b5771255de3affff2b6341c67.jpg_0.[39m
+2024-10-25 23:02:05,735 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-10-_jpg.rf.4c8ff85b5771255de3affff2b6341c67.jpg_0.[39m
+2024-10-25 23:02:05,735 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.4c8ff85b5771255de3affff2b6341c67.jpg
+2024-10-25 23:02:05,736 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.c33c745574328b2bc9448efc9d2b86f4.jpg
+2024-10-25 23:02:05,788 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.c33c745574328b2bc9448efc9d2b86f4.jpg
+2024-10-25 23:02:09,188 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-10-_jpg.rf.c33c745574328b2bc9448efc9d2b86f4.jpg_0.[39m
+2024-10-25 23:02:09,189 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-10-_jpg.rf.c33c745574328b2bc9448efc9d2b86f4.jpg_0.[39m
+2024-10-25 23:02:09,189 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.c33c745574328b2bc9448efc9d2b86f4.jpg
+2024-10-25 23:02:09,190 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.f828caaab55c5597efa6a8989d51d3cf.jpg
+2024-10-25 23:02:09,253 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.f828caaab55c5597efa6a8989d51d3cf.jpg
+2024-10-25 23:02:12,331 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-10-_jpg.rf.f828caaab55c5597efa6a8989d51d3cf.jpg_0.[39m
+2024-10-25 23:02:12,331 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-10-_jpg.rf.f828caaab55c5597efa6a8989d51d3cf.jpg_0.[39m
+2024-10-25 23:02:12,332 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-10-_jpg.rf.f828caaab55c5597efa6a8989d51d3cf.jpg
+2024-10-25 23:02:12,332 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.21072420146388131ff73a48a3f1c70c.jpg
+2024-10-25 23:02:12,398 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.21072420146388131ff73a48a3f1c70c.jpg
+2024-10-25 23:02:15,361 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-11-_jpg.rf.21072420146388131ff73a48a3f1c70c.jpg_0.[39m
+2024-10-25 23:02:15,362 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-11-_jpg.rf.21072420146388131ff73a48a3f1c70c.jpg_0.[39m
+2024-10-25 23:02:15,362 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.21072420146388131ff73a48a3f1c70c.jpg
+2024-10-25 23:02:15,363 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.3bd3580d4f77a89eee9ddb655a858ae6.jpg
+2024-10-25 23:02:15,372 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.3bd3580d4f77a89eee9ddb655a858ae6.jpg
+2024-10-25 23:02:19,821 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-11-_jpg.rf.3bd3580d4f77a89eee9ddb655a858ae6.jpg_0.[39m
+2024-10-25 23:02:19,822 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-11-_jpg.rf.3bd3580d4f77a89eee9ddb655a858ae6.jpg_0.[39m
+2024-10-25 23:02:19,822 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.3bd3580d4f77a89eee9ddb655a858ae6.jpg
+2024-10-25 23:02:19,822 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.bfb044e08ee4ba319d033f3f6f582e50.jpg
+2024-10-25 23:02:19,836 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.bfb044e08ee4ba319d033f3f6f582e50.jpg
+2024-10-25 23:02:23,078 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-11-_jpg.rf.bfb044e08ee4ba319d033f3f6f582e50.jpg_0.[39m
+2024-10-25 23:02:23,079 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-11-_jpg.rf.bfb044e08ee4ba319d033f3f6f582e50.jpg_0.[39m
+2024-10-25 23:02:23,079 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-11-_jpg.rf.bfb044e08ee4ba319d033f3f6f582e50.jpg
+2024-10-25 23:02:23,080 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.9255c5e6cc71dbee6d266d2654b23c91.jpg
+2024-10-25 23:02:23,090 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.9255c5e6cc71dbee6d266d2654b23c91.jpg
+2024-10-25 23:02:26,811 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-12-_jpg.rf.9255c5e6cc71dbee6d266d2654b23c91.jpg_0.[39m
+2024-10-25 23:02:26,812 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-12-_jpg.rf.9255c5e6cc71dbee6d266d2654b23c91.jpg_0.[39m
+2024-10-25 23:02:26,812 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.9255c5e6cc71dbee6d266d2654b23c91.jpg
+2024-10-25 23:02:26,813 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.9596b987fdba9e9a4936e5151e2f2de0.jpg
+2024-10-25 23:02:26,855 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.9596b987fdba9e9a4936e5151e2f2de0.jpg
+2024-10-25 23:02:30,043 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-12-_jpg.rf.9596b987fdba9e9a4936e5151e2f2de0.jpg_0.[39m
+2024-10-25 23:02:30,044 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-12-_jpg.rf.9596b987fdba9e9a4936e5151e2f2de0.jpg_0.[39m
+2024-10-25 23:02:30,045 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.9596b987fdba9e9a4936e5151e2f2de0.jpg
+2024-10-25 23:02:30,045 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.db963500e899f90bb31610f766470377.jpg
+2024-10-25 23:02:30,106 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.db963500e899f90bb31610f766470377.jpg
+2024-10-25 23:02:33,399 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-12-_jpg.rf.db963500e899f90bb31610f766470377.jpg_0.[39m
+2024-10-25 23:02:33,399 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-12-_jpg.rf.db963500e899f90bb31610f766470377.jpg_0.[39m
+2024-10-25 23:02:33,400 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-12-_jpg.rf.db963500e899f90bb31610f766470377.jpg
+2024-10-25 23:02:33,401 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.b9ff59a2c57343bce8219fc7bb4c499e.jpg
+2024-10-25 23:02:33,491 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.b9ff59a2c57343bce8219fc7bb4c499e.jpg
+2024-10-25 23:02:36,879 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-13-_jpg.rf.b9ff59a2c57343bce8219fc7bb4c499e.jpg_0.[39m
+2024-10-25 23:02:36,880 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-13-_jpg.rf.b9ff59a2c57343bce8219fc7bb4c499e.jpg_0.[39m
+2024-10-25 23:02:36,880 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.b9ff59a2c57343bce8219fc7bb4c499e.jpg
+2024-10-25 23:02:36,881 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.b9ff59a2c57343bce8219fc7bb4c499e.jpg
+2024-10-25 23:02:36,881 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.c41a28124fa85a9aaefbb7d67d38f56d.jpg
+2024-10-25 23:02:36,946 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.c41a28124fa85a9aaefbb7d67d38f56d.jpg
+2024-10-25 23:02:39,054 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-13-_jpg.rf.c41a28124fa85a9aaefbb7d67d38f56d.jpg_0.[39m
+2024-10-25 23:02:39,055 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-13-_jpg.rf.c41a28124fa85a9aaefbb7d67d38f56d.jpg_0.[39m
+2024-10-25 23:02:39,081 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.c41a28124fa85a9aaefbb7d67d38f56d.jpg
+2024-10-25 23:02:39,082 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.f16d9202417fcccb118cd3ff0544b1d8.jpg
+2024-10-25 23:02:39,104 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.f16d9202417fcccb118cd3ff0544b1d8.jpg
+2024-10-25 23:02:41,312 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-13-_jpg.rf.f16d9202417fcccb118cd3ff0544b1d8.jpg_0.[39m
+2024-10-25 23:02:41,313 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-13-_jpg.rf.f16d9202417fcccb118cd3ff0544b1d8.jpg_0.[39m
+2024-10-25 23:02:41,314 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.f16d9202417fcccb118cd3ff0544b1d8.jpg
+2024-10-25 23:02:41,315 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-13-_jpg.rf.f16d9202417fcccb118cd3ff0544b1d8.jpg
+2024-10-25 23:02:41,315 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.2855163bcf567162b042aef9d4fa9de4.jpg
+2024-10-25 23:02:41,324 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.2855163bcf567162b042aef9d4fa9de4.jpg
+2024-10-25 23:02:43,457 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-14-_jpg.rf.2855163bcf567162b042aef9d4fa9de4.jpg_0.[39m
+2024-10-25 23:02:43,458 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-14-_jpg.rf.2855163bcf567162b042aef9d4fa9de4.jpg_0.[39m
+2024-10-25 23:02:43,458 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.2855163bcf567162b042aef9d4fa9de4.jpg
+2024-10-25 23:02:43,459 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.fadc223ad6fe52444bd9160cb071c355.jpg
+2024-10-25 23:02:43,467 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.fadc223ad6fe52444bd9160cb071c355.jpg
+2024-10-25 23:02:45,527 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-14-_jpg.rf.fadc223ad6fe52444bd9160cb071c355.jpg_0.[39m
+2024-10-25 23:02:45,528 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-14-_jpg.rf.fadc223ad6fe52444bd9160cb071c355.jpg_0.[39m
+2024-10-25 23:02:45,528 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.fadc223ad6fe52444bd9160cb071c355.jpg
+2024-10-25 23:02:45,529 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.fb297487a36269afff44375b2f5cea75.jpg
+2024-10-25 23:02:45,537 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.fb297487a36269afff44375b2f5cea75.jpg
+2024-10-25 23:02:47,809 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-14-_jpg.rf.fb297487a36269afff44375b2f5cea75.jpg_0.[39m
+2024-10-25 23:02:47,810 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-14-_jpg.rf.fb297487a36269afff44375b2f5cea75.jpg_0.[39m
+2024-10-25 23:02:47,810 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-14-_jpg.rf.fb297487a36269afff44375b2f5cea75.jpg
+2024-10-25 23:02:47,810 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.6e6a9b252f169a61b996da5f294b1b6c.jpg
+2024-10-25 23:02:47,819 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.6e6a9b252f169a61b996da5f294b1b6c.jpg
+2024-10-25 23:02:49,785 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-15-_jpg.rf.6e6a9b252f169a61b996da5f294b1b6c.jpg_0.[39m
+2024-10-25 23:02:49,786 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-15-_jpg.rf.6e6a9b252f169a61b996da5f294b1b6c.jpg_0.[39m
+2024-10-25 23:02:49,786 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.6e6a9b252f169a61b996da5f294b1b6c.jpg
+2024-10-25 23:02:49,787 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.9c3e254fff8d9e280addce4f210daed0.jpg
+2024-10-25 23:02:49,796 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.9c3e254fff8d9e280addce4f210daed0.jpg
+2024-10-25 23:02:52,013 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-15-_jpg.rf.9c3e254fff8d9e280addce4f210daed0.jpg_0.[39m
+2024-10-25 23:02:52,014 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-15-_jpg.rf.9c3e254fff8d9e280addce4f210daed0.jpg_0.[39m
+2024-10-25 23:02:52,015 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.9c3e254fff8d9e280addce4f210daed0.jpg
+2024-10-25 23:02:52,015 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.e924aef9c46336c0fd929575d14225d2.jpg
+2024-10-25 23:02:52,023 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.e924aef9c46336c0fd929575d14225d2.jpg
+2024-10-25 23:02:53,893 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-15-_jpg.rf.e924aef9c46336c0fd929575d14225d2.jpg_0.[39m
+2024-10-25 23:02:53,894 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-15-_jpg.rf.e924aef9c46336c0fd929575d14225d2.jpg_0.[39m
+2024-10-25 23:02:53,894 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-15-_jpg.rf.e924aef9c46336c0fd929575d14225d2.jpg
+2024-10-25 23:02:53,895 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.7eee154fbcaa431c6ca855d1c710d644.jpg
+2024-10-25 23:02:53,903 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.7eee154fbcaa431c6ca855d1c710d644.jpg
+2024-10-25 23:04:16,733 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-16-_jpg.rf.7eee154fbcaa431c6ca855d1c710d644.jpg_0.[39m
+2024-10-25 23:04:16,734 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-16-_jpg.rf.7eee154fbcaa431c6ca855d1c710d644.jpg_0.[39m
+2024-10-25 23:04:16,734 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.7eee154fbcaa431c6ca855d1c710d644.jpg
+2024-10-25 23:04:16,734 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.85f892a002a0b4ca0d97e2d5fce41eaf.jpg
+2024-10-25 23:04:16,833 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.85f892a002a0b4ca0d97e2d5fce41eaf.jpg
+2024-10-25 23:04:19,298 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-16-_jpg.rf.85f892a002a0b4ca0d97e2d5fce41eaf.jpg_0.[39m
+2024-10-25 23:04:19,299 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-16-_jpg.rf.85f892a002a0b4ca0d97e2d5fce41eaf.jpg_0.[39m
+2024-10-25 23:04:19,300 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.85f892a002a0b4ca0d97e2d5fce41eaf.jpg
+2024-10-25 23:04:19,300 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.c03be4b261121faa9217c6e1064dc2be.jpg
+2024-10-25 23:04:19,308 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.c03be4b261121faa9217c6e1064dc2be.jpg
+2024-10-25 23:04:21,360 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-16-_jpg.rf.c03be4b261121faa9217c6e1064dc2be.jpg_0.[39m
+2024-10-25 23:04:21,361 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-16-_jpg.rf.c03be4b261121faa9217c6e1064dc2be.jpg_0.[39m
+2024-10-25 23:04:21,361 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-16-_jpg.rf.c03be4b261121faa9217c6e1064dc2be.jpg
+2024-10-25 23:04:21,362 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.976834ea754ce4a6378ad6f63835b262.jpg
+2024-10-25 23:04:21,371 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.976834ea754ce4a6378ad6f63835b262.jpg
+2024-10-25 23:04:45,262 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-18-_jpg.rf.976834ea754ce4a6378ad6f63835b262.jpg_0.[39m
+2024-10-25 23:04:45,263 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-18-_jpg.rf.976834ea754ce4a6378ad6f63835b262.jpg_0.[39m
+2024-10-25 23:04:45,264 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.976834ea754ce4a6378ad6f63835b262.jpg
+2024-10-25 23:04:45,264 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.976834ea754ce4a6378ad6f63835b262.jpg
+2024-10-25 23:04:45,265 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.98ad319775ce612dc22918208483ff1f.jpg
+2024-10-25 23:04:45,275 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.98ad319775ce612dc22918208483ff1f.jpg
+2024-10-25 23:04:47,207 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-18-_jpg.rf.98ad319775ce612dc22918208483ff1f.jpg_0.[39m
+2024-10-25 23:04:47,208 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-18-_jpg.rf.98ad319775ce612dc22918208483ff1f.jpg_0.[39m
+2024-10-25 23:04:47,209 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.98ad319775ce612dc22918208483ff1f.jpg
+2024-10-25 23:04:47,209 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.cdcf4429390425cd62de002c2457b33c.jpg
+2024-10-25 23:04:47,232 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.cdcf4429390425cd62de002c2457b33c.jpg
+2024-10-25 23:04:49,001 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-18-_jpg.rf.cdcf4429390425cd62de002c2457b33c.jpg_0.[39m
+2024-10-25 23:04:49,002 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-18-_jpg.rf.cdcf4429390425cd62de002c2457b33c.jpg_0.[39m
+2024-10-25 23:04:49,002 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-18-_jpg.rf.cdcf4429390425cd62de002c2457b33c.jpg
+2024-10-25 23:04:49,003 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.16c0259b2df5b78da123f3d4ab57e911.jpg
+2024-10-25 23:04:49,011 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.16c0259b2df5b78da123f3d4ab57e911.jpg
+2024-10-25 23:04:50,949 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-20-_jpg.rf.16c0259b2df5b78da123f3d4ab57e911.jpg_0.[39m
+2024-10-25 23:04:50,951 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-20-_jpg.rf.16c0259b2df5b78da123f3d4ab57e911.jpg_0.[39m
+2024-10-25 23:04:50,952 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.16c0259b2df5b78da123f3d4ab57e911.jpg
+2024-10-25 23:04:50,952 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.22c8c79176dcb9b6f73f33b511e7bad0.jpg
+2024-10-25 23:04:51,042 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.22c8c79176dcb9b6f73f33b511e7bad0.jpg
+2024-10-25 23:04:52,921 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-20-_jpg.rf.22c8c79176dcb9b6f73f33b511e7bad0.jpg_0.[39m
+2024-10-25 23:04:52,923 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-20-_jpg.rf.22c8c79176dcb9b6f73f33b511e7bad0.jpg_0.[39m
+2024-10-25 23:04:52,923 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.22c8c79176dcb9b6f73f33b511e7bad0.jpg
+2024-10-25 23:04:52,923 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.3e845d8445446acf9998c0c7e56db961.jpg
+2024-10-25 23:04:52,992 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.3e845d8445446acf9998c0c7e56db961.jpg
+2024-10-25 23:04:54,902 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-20-_jpg.rf.3e845d8445446acf9998c0c7e56db961.jpg_0.[39m
+2024-10-25 23:04:54,903 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-20-_jpg.rf.3e845d8445446acf9998c0c7e56db961.jpg_0.[39m
+2024-10-25 23:04:54,904 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-20-_jpg.rf.3e845d8445446acf9998c0c7e56db961.jpg
+2024-10-25 23:04:54,905 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.20a2ba7c4c60820d921e3822b9f6ea96.jpg
+2024-10-25 23:04:54,981 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.20a2ba7c4c60820d921e3822b9f6ea96.jpg
+2024-10-25 23:04:56,544 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-21-_jpg.rf.20a2ba7c4c60820d921e3822b9f6ea96.jpg_0.[39m
+2024-10-25 23:04:56,545 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-21-_jpg.rf.20a2ba7c4c60820d921e3822b9f6ea96.jpg_0.[39m
+2024-10-25 23:04:56,546 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.20a2ba7c4c60820d921e3822b9f6ea96.jpg
+2024-10-25 23:04:56,546 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.befd7543594913f7a20077c23297286c.jpg
+2024-10-25 23:04:56,669 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.befd7543594913f7a20077c23297286c.jpg
+2024-10-25 23:04:58,194 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-21-_jpg.rf.befd7543594913f7a20077c23297286c.jpg_0.[39m
+2024-10-25 23:04:58,197 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-21-_jpg.rf.befd7543594913f7a20077c23297286c.jpg_0.[39m
+2024-10-25 23:04:58,197 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.befd7543594913f7a20077c23297286c.jpg
+2024-10-25 23:04:58,198 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.eaeda1aff8b2871c6a3ae215fd9353f4.jpg
+2024-10-25 23:04:58,335 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.eaeda1aff8b2871c6a3ae215fd9353f4.jpg
+2024-10-25 23:05:00,010 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-21-_jpg.rf.eaeda1aff8b2871c6a3ae215fd9353f4.jpg_0.[39m
+2024-10-25 23:05:00,012 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-21-_jpg.rf.eaeda1aff8b2871c6a3ae215fd9353f4.jpg_0.[39m
+2024-10-25 23:05:00,013 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-21-_jpg.rf.eaeda1aff8b2871c6a3ae215fd9353f4.jpg
+2024-10-25 23:05:00,013 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.8b9dafb65ea9bf544ef79661955c1abe.jpg
+2024-10-25 23:05:00,155 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.8b9dafb65ea9bf544ef79661955c1abe.jpg
+2024-10-25 23:05:02,106 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-22-_jpg.rf.8b9dafb65ea9bf544ef79661955c1abe.jpg_0.[39m
+2024-10-25 23:05:02,110 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-22-_jpg.rf.8b9dafb65ea9bf544ef79661955c1abe.jpg_0.[39m
+2024-10-25 23:05:02,112 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.8b9dafb65ea9bf544ef79661955c1abe.jpg
+2024-10-25 23:05:02,113 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.938d619dc4302096b8e42a75c46aa97a.jpg
+2024-10-25 23:05:02,378 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.938d619dc4302096b8e42a75c46aa97a.jpg
+2024-10-25 23:05:03,896 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-22-_jpg.rf.938d619dc4302096b8e42a75c46aa97a.jpg_0.[39m
+2024-10-25 23:05:03,897 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-22-_jpg.rf.938d619dc4302096b8e42a75c46aa97a.jpg_0.[39m
+2024-10-25 23:05:03,899 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.938d619dc4302096b8e42a75c46aa97a.jpg
+2024-10-25 23:05:03,900 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.d7f960944c03a7e93ab0d206ec4efae7.jpg
+2024-10-25 23:05:04,043 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.d7f960944c03a7e93ab0d206ec4efae7.jpg
+2024-10-25 23:05:05,401 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-22-_jpg.rf.d7f960944c03a7e93ab0d206ec4efae7.jpg_0.[39m
+2024-10-25 23:05:05,402 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-22-_jpg.rf.d7f960944c03a7e93ab0d206ec4efae7.jpg_0.[39m
+2024-10-25 23:05:05,403 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-22-_jpg.rf.d7f960944c03a7e93ab0d206ec4efae7.jpg
+2024-10-25 23:05:05,403 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.b092229ab1d084cac0fe54f86dab99f3.jpg
+2024-10-25 23:05:05,412 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.b092229ab1d084cac0fe54f86dab99f3.jpg
+2024-10-25 23:05:06,754 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-23-_jpg.rf.b092229ab1d084cac0fe54f86dab99f3.jpg_0.[39m
+2024-10-25 23:05:06,755 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-23-_jpg.rf.b092229ab1d084cac0fe54f86dab99f3.jpg_0.[39m
+2024-10-25 23:05:06,756 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.b092229ab1d084cac0fe54f86dab99f3.jpg
+2024-10-25 23:05:06,756 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.d980c6dcb9ac9ea1346f12554e9ac904.jpg
+2024-10-25 23:05:06,765 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.d980c6dcb9ac9ea1346f12554e9ac904.jpg
+2024-10-25 23:05:08,031 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-23-_jpg.rf.d980c6dcb9ac9ea1346f12554e9ac904.jpg_0.[39m
+2024-10-25 23:05:08,032 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-23-_jpg.rf.d980c6dcb9ac9ea1346f12554e9ac904.jpg_0.[39m
+2024-10-25 23:05:08,033 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.d980c6dcb9ac9ea1346f12554e9ac904.jpg
+2024-10-25 23:05:08,033 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.ea613f261ca6e60d6b3c9f9a5f2053b3.jpg
+2024-10-25 23:05:08,131 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.ea613f261ca6e60d6b3c9f9a5f2053b3.jpg
+2024-10-25 23:05:09,437 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-23-_jpg.rf.ea613f261ca6e60d6b3c9f9a5f2053b3.jpg_0.[39m
+2024-10-25 23:05:09,438 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-23-_jpg.rf.ea613f261ca6e60d6b3c9f9a5f2053b3.jpg_0.[39m
+2024-10-25 23:05:09,438 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-23-_jpg.rf.ea613f261ca6e60d6b3c9f9a5f2053b3.jpg
+2024-10-25 23:05:09,439 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.1710dcc6b847b898d290995b12578c87.jpg
+2024-10-25 23:05:09,464 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.1710dcc6b847b898d290995b12578c87.jpg
+2024-10-25 23:05:10,761 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-24-_jpg.rf.1710dcc6b847b898d290995b12578c87.jpg_0.[39m
+2024-10-25 23:05:10,762 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-24-_jpg.rf.1710dcc6b847b898d290995b12578c87.jpg_0.[39m
+2024-10-25 23:05:10,763 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.1710dcc6b847b898d290995b12578c87.jpg
+2024-10-25 23:05:10,763 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.6e5362e670dc302b62b39fd242a0e7ac.jpg
+2024-10-25 23:05:10,772 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.6e5362e670dc302b62b39fd242a0e7ac.jpg
+2024-10-25 23:05:12,031 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-24-_jpg.rf.6e5362e670dc302b62b39fd242a0e7ac.jpg_0.[39m
+2024-10-25 23:05:12,032 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-24-_jpg.rf.6e5362e670dc302b62b39fd242a0e7ac.jpg_0.[39m
+2024-10-25 23:05:12,033 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.6e5362e670dc302b62b39fd242a0e7ac.jpg
+2024-10-25 23:05:12,033 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.f6220fd8917de5ea8571f6448c249d48.jpg
+2024-10-25 23:05:12,042 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.f6220fd8917de5ea8571f6448c249d48.jpg
+2024-10-25 23:05:13,419 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-24-_jpg.rf.f6220fd8917de5ea8571f6448c249d48.jpg_0.[39m
+2024-10-25 23:05:13,421 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-24-_jpg.rf.f6220fd8917de5ea8571f6448c249d48.jpg_0.[39m
+2024-10-25 23:05:13,421 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-24-_jpg.rf.f6220fd8917de5ea8571f6448c249d48.jpg
+2024-10-25 23:05:13,421 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.2949575c0c8db2e7061e45ccdc954f61.jpg
+2024-10-25 23:05:13,499 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.2949575c0c8db2e7061e45ccdc954f61.jpg
+2024-10-25 23:05:14,869 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-25-_jpg.rf.2949575c0c8db2e7061e45ccdc954f61.jpg_0.[39m
+2024-10-25 23:05:14,869 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-25-_jpg.rf.2949575c0c8db2e7061e45ccdc954f61.jpg_0.[39m
+2024-10-25 23:05:14,870 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.2949575c0c8db2e7061e45ccdc954f61.jpg
+2024-10-25 23:05:14,870 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.2c4247b7117d55ab2cfbda13cdd2f1aa.jpg
+2024-10-25 23:05:14,909 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.2c4247b7117d55ab2cfbda13cdd2f1aa.jpg
+2024-10-25 23:05:16,160 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-25-_jpg.rf.2c4247b7117d55ab2cfbda13cdd2f1aa.jpg_0.[39m
+2024-10-25 23:05:16,162 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-25-_jpg.rf.2c4247b7117d55ab2cfbda13cdd2f1aa.jpg_0.[39m
+2024-10-25 23:05:16,162 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.2c4247b7117d55ab2cfbda13cdd2f1aa.jpg
+2024-10-25 23:05:16,163 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.2c4247b7117d55ab2cfbda13cdd2f1aa.jpg
+2024-10-25 23:05:16,164 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.3ef5c3fd644e80fecdf41d7377071cab.jpg
+2024-10-25 23:05:16,173 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.3ef5c3fd644e80fecdf41d7377071cab.jpg
+2024-10-25 23:05:17,566 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-25-_jpg.rf.3ef5c3fd644e80fecdf41d7377071cab.jpg_0.[39m
+2024-10-25 23:05:17,567 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-25-_jpg.rf.3ef5c3fd644e80fecdf41d7377071cab.jpg_0.[39m
+2024-10-25 23:05:17,568 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.3ef5c3fd644e80fecdf41d7377071cab.jpg
+2024-10-25 23:05:17,568 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-25-_jpg.rf.3ef5c3fd644e80fecdf41d7377071cab.jpg
+2024-10-25 23:05:17,569 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.1660df4cc4ecc2704b8c1951e2176cba.jpg
+2024-10-25 23:05:17,611 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.1660df4cc4ecc2704b8c1951e2176cba.jpg
+2024-10-25 23:05:18,863 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-27-_jpg.rf.1660df4cc4ecc2704b8c1951e2176cba.jpg_0.[39m
+2024-10-25 23:05:18,864 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-27-_jpg.rf.1660df4cc4ecc2704b8c1951e2176cba.jpg_0.[39m
+2024-10-25 23:05:18,865 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.1660df4cc4ecc2704b8c1951e2176cba.jpg
+2024-10-25 23:05:18,865 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.1e3b6282663cf741b99e90d1a3b373d8.jpg
+2024-10-25 23:05:18,910 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.1e3b6282663cf741b99e90d1a3b373d8.jpg
+2024-10-25 23:05:20,235 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-27-_jpg.rf.1e3b6282663cf741b99e90d1a3b373d8.jpg_0.[39m
+2024-10-25 23:05:20,237 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-27-_jpg.rf.1e3b6282663cf741b99e90d1a3b373d8.jpg_0.[39m
+2024-10-25 23:05:20,238 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.1e3b6282663cf741b99e90d1a3b373d8.jpg
+2024-10-25 23:05:20,239 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.c57b4af4acc0c878154ef7887b1925f7.jpg
+2024-10-25 23:05:20,277 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.c57b4af4acc0c878154ef7887b1925f7.jpg
+2024-10-25 23:05:21,681 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-27-_jpg.rf.c57b4af4acc0c878154ef7887b1925f7.jpg_0.[39m
+2024-10-25 23:05:21,682 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-27-_jpg.rf.c57b4af4acc0c878154ef7887b1925f7.jpg_0.[39m
+2024-10-25 23:05:21,683 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.c57b4af4acc0c878154ef7887b1925f7.jpg
+2024-10-25 23:05:21,684 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-27-_jpg.rf.c57b4af4acc0c878154ef7887b1925f7.jpg
+2024-10-25 23:05:21,684 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.4fb96d4274f453c15ea91b02a98b45d5.jpg
+2024-10-25 23:05:21,691 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.4fb96d4274f453c15ea91b02a98b45d5.jpg
+2024-10-25 23:05:23,171 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-28-_jpg.rf.4fb96d4274f453c15ea91b02a98b45d5.jpg_0.[39m
+2024-10-25 23:05:23,172 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-28-_jpg.rf.4fb96d4274f453c15ea91b02a98b45d5.jpg_0.[39m
+2024-10-25 23:05:23,172 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.4fb96d4274f453c15ea91b02a98b45d5.jpg
+2024-10-25 23:05:23,173 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.5f58a981b429af7525023faf6c68b9a5.jpg
+2024-10-25 23:05:23,181 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.5f58a981b429af7525023faf6c68b9a5.jpg
+2024-10-25 23:05:24,557 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-28-_jpg.rf.5f58a981b429af7525023faf6c68b9a5.jpg_0.[39m
+2024-10-25 23:05:24,558 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-28-_jpg.rf.5f58a981b429af7525023faf6c68b9a5.jpg_0.[39m
+2024-10-25 23:05:24,558 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.5f58a981b429af7525023faf6c68b9a5.jpg
+2024-10-25 23:05:24,559 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.c90b0a2d84e9c80968476c4e9c634cb8.jpg
+2024-10-25 23:05:24,611 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.c90b0a2d84e9c80968476c4e9c634cb8.jpg
+2024-10-25 23:05:25,905 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-28-_jpg.rf.c90b0a2d84e9c80968476c4e9c634cb8.jpg_0.[39m
+2024-10-25 23:05:25,907 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-28-_jpg.rf.c90b0a2d84e9c80968476c4e9c634cb8.jpg_0.[39m
+2024-10-25 23:05:25,908 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.c90b0a2d84e9c80968476c4e9c634cb8.jpg
+2024-10-25 23:05:25,908 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-28-_jpg.rf.c90b0a2d84e9c80968476c4e9c634cb8.jpg
+2024-10-25 23:05:25,909 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.069e3b6ced581c5df1789dc8027d5d81.jpg
+2024-10-25 23:05:25,915 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.069e3b6ced581c5df1789dc8027d5d81.jpg
+2024-10-25 23:05:27,212 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-29-_jpg.rf.069e3b6ced581c5df1789dc8027d5d81.jpg_0.[39m
+2024-10-25 23:05:27,213 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-29-_jpg.rf.069e3b6ced581c5df1789dc8027d5d81.jpg_0.[39m
+2024-10-25 23:05:27,214 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.069e3b6ced581c5df1789dc8027d5d81.jpg
+2024-10-25 23:05:27,215 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.d16d61325e22074cb56fee8f083116ab.jpg
+2024-10-25 23:05:27,223 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.d16d61325e22074cb56fee8f083116ab.jpg
+2024-10-25 23:05:28,531 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-29-_jpg.rf.d16d61325e22074cb56fee8f083116ab.jpg_0.[39m
+2024-10-25 23:05:28,532 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-29-_jpg.rf.d16d61325e22074cb56fee8f083116ab.jpg_0.[39m
+2024-10-25 23:05:28,533 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.d16d61325e22074cb56fee8f083116ab.jpg
+2024-10-25 23:05:28,534 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.e9728e3a1b54be89964a12bd83fa9fa2.jpg
+2024-10-25 23:05:28,563 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.e9728e3a1b54be89964a12bd83fa9fa2.jpg
+2024-10-25 23:05:29,952 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-29-_jpg.rf.e9728e3a1b54be89964a12bd83fa9fa2.jpg_0.[39m
+2024-10-25 23:05:29,953 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-29-_jpg.rf.e9728e3a1b54be89964a12bd83fa9fa2.jpg_0.[39m
+2024-10-25 23:05:29,954 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-29-_jpg.rf.e9728e3a1b54be89964a12bd83fa9fa2.jpg
+2024-10-25 23:05:29,955 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.23769bc3e8aa30d5d4a8cbf2867f2557.jpg
+2024-10-25 23:05:29,985 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.23769bc3e8aa30d5d4a8cbf2867f2557.jpg
+2024-10-25 23:05:31,315 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-3-_jpg.rf.23769bc3e8aa30d5d4a8cbf2867f2557.jpg_0.[39m
+2024-10-25 23:05:31,318 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-3-_jpg.rf.23769bc3e8aa30d5d4a8cbf2867f2557.jpg_0.[39m
+2024-10-25 23:05:31,319 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.23769bc3e8aa30d5d4a8cbf2867f2557.jpg
+2024-10-25 23:05:31,319 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.23769bc3e8aa30d5d4a8cbf2867f2557.jpg
+2024-10-25 23:05:31,320 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.477ec674e076bde8d1b05289a459b879.jpg
+2024-10-25 23:05:31,327 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.477ec674e076bde8d1b05289a459b879.jpg
+2024-10-25 23:05:32,616 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-3-_jpg.rf.477ec674e076bde8d1b05289a459b879.jpg_0.[39m
+2024-10-25 23:05:32,618 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-3-_jpg.rf.477ec674e076bde8d1b05289a459b879.jpg_0.[39m
+2024-10-25 23:05:32,619 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.477ec674e076bde8d1b05289a459b879.jpg
+2024-10-25 23:05:32,620 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.7ad43688691a2a85d2b05954747186fd.jpg
+2024-10-25 23:05:32,631 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.7ad43688691a2a85d2b05954747186fd.jpg
+2024-10-25 23:05:33,980 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-3-_jpg.rf.7ad43688691a2a85d2b05954747186fd.jpg_0.[39m
+2024-10-25 23:05:33,981 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-3-_jpg.rf.7ad43688691a2a85d2b05954747186fd.jpg_0.[39m
+2024-10-25 23:05:33,982 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-3-_jpg.rf.7ad43688691a2a85d2b05954747186fd.jpg
+2024-10-25 23:05:33,982 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.43c7fa131f33f46dd0d7205a7267c378.jpg
+2024-10-25 23:05:33,990 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.43c7fa131f33f46dd0d7205a7267c378.jpg
+2024-10-25 23:05:35,343 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-30-_jpg.rf.43c7fa131f33f46dd0d7205a7267c378.jpg_0.[39m
+2024-10-25 23:05:35,344 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-30-_jpg.rf.43c7fa131f33f46dd0d7205a7267c378.jpg_0.[39m
+2024-10-25 23:05:35,345 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.43c7fa131f33f46dd0d7205a7267c378.jpg
+2024-10-25 23:05:35,346 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.4606fbdd0d6296a5c567abe2aaa18873.jpg
+2024-10-25 23:05:35,398 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.4606fbdd0d6296a5c567abe2aaa18873.jpg
+2024-10-25 23:05:36,660 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-30-_jpg.rf.4606fbdd0d6296a5c567abe2aaa18873.jpg_0.[39m
+2024-10-25 23:05:36,662 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-30-_jpg.rf.4606fbdd0d6296a5c567abe2aaa18873.jpg_0.[39m
+2024-10-25 23:05:36,663 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.4606fbdd0d6296a5c567abe2aaa18873.jpg
+2024-10-25 23:05:36,664 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.da8e2d5c8bcca7bb91a8ad68076e104c.jpg
+2024-10-25 23:05:36,762 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.da8e2d5c8bcca7bb91a8ad68076e104c.jpg
+2024-10-25 23:05:38,156 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-30-_jpg.rf.da8e2d5c8bcca7bb91a8ad68076e104c.jpg_0.[39m
+2024-10-25 23:05:38,158 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-30-_jpg.rf.da8e2d5c8bcca7bb91a8ad68076e104c.jpg_0.[39m
+2024-10-25 23:05:38,159 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-30-_jpg.rf.da8e2d5c8bcca7bb91a8ad68076e104c.jpg
+2024-10-25 23:05:38,160 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.1ee29d78f63c71fbd6123d1b23fbaa58.jpg
+2024-10-25 23:05:38,190 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.1ee29d78f63c71fbd6123d1b23fbaa58.jpg
+2024-10-25 23:05:39,472 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-32-_jpg.rf.1ee29d78f63c71fbd6123d1b23fbaa58.jpg_0.[39m
+2024-10-25 23:05:39,474 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-32-_jpg.rf.1ee29d78f63c71fbd6123d1b23fbaa58.jpg_0.[39m
+2024-10-25 23:05:39,475 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.1ee29d78f63c71fbd6123d1b23fbaa58.jpg
+2024-10-25 23:05:39,475 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.d03fa78d3cf78364846e38792f1999b5.jpg
+2024-10-25 23:05:39,483 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.d03fa78d3cf78364846e38792f1999b5.jpg
+2024-10-25 23:05:40,923 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-32-_jpg.rf.d03fa78d3cf78364846e38792f1999b5.jpg_0.[39m
+2024-10-25 23:05:40,925 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-32-_jpg.rf.d03fa78d3cf78364846e38792f1999b5.jpg_0.[39m
+2024-10-25 23:05:40,926 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.d03fa78d3cf78364846e38792f1999b5.jpg
+2024-10-25 23:05:40,926 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.d03fa78d3cf78364846e38792f1999b5.jpg
+2024-10-25 23:05:40,927 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.dbb38a6a533ffccfea527ff22880dce4.jpg
+2024-10-25 23:05:40,992 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.dbb38a6a533ffccfea527ff22880dce4.jpg
+2024-10-25 23:05:42,720 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-32-_jpg.rf.dbb38a6a533ffccfea527ff22880dce4.jpg_0.[39m
+2024-10-25 23:05:42,722 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-32-_jpg.rf.dbb38a6a533ffccfea527ff22880dce4.jpg_0.[39m
+2024-10-25 23:05:42,722 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-32-_jpg.rf.dbb38a6a533ffccfea527ff22880dce4.jpg
+2024-10-25 23:05:42,722 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.2793d02562fd0455785b2f0fd6bb6075.jpg
+2024-10-25 23:05:42,779 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.2793d02562fd0455785b2f0fd6bb6075.jpg
+2024-10-25 23:05:44,166 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-33-_jpg.rf.2793d02562fd0455785b2f0fd6bb6075.jpg_0.[39m
+2024-10-25 23:05:44,168 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-33-_jpg.rf.2793d02562fd0455785b2f0fd6bb6075.jpg_0.[39m
+2024-10-25 23:05:44,169 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.2793d02562fd0455785b2f0fd6bb6075.jpg
+2024-10-25 23:05:44,170 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.c4017fef94f4ca85c1abc8d2f52b6ef2.jpg
+2024-10-25 23:05:44,179 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.c4017fef94f4ca85c1abc8d2f52b6ef2.jpg
+2024-10-25 23:05:45,628 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-33-_jpg.rf.c4017fef94f4ca85c1abc8d2f52b6ef2.jpg_0.[39m
+2024-10-25 23:05:45,629 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-33-_jpg.rf.c4017fef94f4ca85c1abc8d2f52b6ef2.jpg_0.[39m
+2024-10-25 23:05:45,630 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.c4017fef94f4ca85c1abc8d2f52b6ef2.jpg
+2024-10-25 23:05:45,631 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.ee19561bfaaa55bb181c335f7d0d6c73.jpg
+2024-10-25 23:05:45,640 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.ee19561bfaaa55bb181c335f7d0d6c73.jpg
+2024-10-25 23:05:46,958 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-33-_jpg.rf.ee19561bfaaa55bb181c335f7d0d6c73.jpg_0.[39m
+2024-10-25 23:05:46,960 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-33-_jpg.rf.ee19561bfaaa55bb181c335f7d0d6c73.jpg_0.[39m
+2024-10-25 23:05:46,961 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.ee19561bfaaa55bb181c335f7d0d6c73.jpg
+2024-10-25 23:05:46,961 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-33-_jpg.rf.ee19561bfaaa55bb181c335f7d0d6c73.jpg
+2024-10-25 23:05:46,962 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.8e97cf2d5366b6b7bdf1f7faaad1011c.jpg
+2024-10-25 23:05:47,008 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.8e97cf2d5366b6b7bdf1f7faaad1011c.jpg
+2024-10-25 23:05:48,341 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-34-_jpg.rf.8e97cf2d5366b6b7bdf1f7faaad1011c.jpg_0.[39m
+2024-10-25 23:05:48,342 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-34-_jpg.rf.8e97cf2d5366b6b7bdf1f7faaad1011c.jpg_0.[39m
+2024-10-25 23:05:48,343 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.8e97cf2d5366b6b7bdf1f7faaad1011c.jpg
+2024-10-25 23:05:48,344 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.e971a4c37683b426adff3f0c5daf1e70.jpg
+2024-10-25 23:05:48,396 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.e971a4c37683b426adff3f0c5daf1e70.jpg
+2024-10-25 23:05:49,765 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-34-_jpg.rf.e971a4c37683b426adff3f0c5daf1e70.jpg_0.[39m
+2024-10-25 23:05:49,766 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-34-_jpg.rf.e971a4c37683b426adff3f0c5daf1e70.jpg_0.[39m
+2024-10-25 23:05:49,767 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.e971a4c37683b426adff3f0c5daf1e70.jpg
+2024-10-25 23:05:49,768 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.ed4d99dbdfe45c2a375e59af27a773aa.jpg
+2024-10-25 23:05:49,787 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.ed4d99dbdfe45c2a375e59af27a773aa.jpg
+2024-10-25 23:05:51,106 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-34-_jpg.rf.ed4d99dbdfe45c2a375e59af27a773aa.jpg_0.[39m
+2024-10-25 23:05:51,107 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-34-_jpg.rf.ed4d99dbdfe45c2a375e59af27a773aa.jpg_0.[39m
+2024-10-25 23:05:51,108 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-34-_jpg.rf.ed4d99dbdfe45c2a375e59af27a773aa.jpg
+2024-10-25 23:05:51,109 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.12bc7497f31841819f4c1a57cd0734e9.jpg
+2024-10-25 23:05:51,116 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.12bc7497f31841819f4c1a57cd0734e9.jpg
+2024-10-25 23:05:52,527 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-36-_jpg.rf.12bc7497f31841819f4c1a57cd0734e9.jpg_0.[39m
+2024-10-25 23:05:52,529 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-36-_jpg.rf.12bc7497f31841819f4c1a57cd0734e9.jpg_0.[39m
+2024-10-25 23:05:52,529 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.12bc7497f31841819f4c1a57cd0734e9.jpg
+2024-10-25 23:05:52,530 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.276726cf254766bbed4c6ce82407228e.jpg
+2024-10-25 23:05:52,586 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.276726cf254766bbed4c6ce82407228e.jpg
+2024-10-25 23:05:53,911 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-36-_jpg.rf.276726cf254766bbed4c6ce82407228e.jpg_0.[39m
+2024-10-25 23:05:53,913 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-36-_jpg.rf.276726cf254766bbed4c6ce82407228e.jpg_0.[39m
+2024-10-25 23:05:53,914 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.276726cf254766bbed4c6ce82407228e.jpg
+2024-10-25 23:05:53,915 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.276726cf254766bbed4c6ce82407228e.jpg
+2024-10-25 23:05:53,916 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.c20ba605ed8980a8cf54514244f290e2.jpg
+2024-10-25 23:05:53,923 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.c20ba605ed8980a8cf54514244f290e2.jpg
+2024-10-25 23:05:55,759 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-36-_jpg.rf.c20ba605ed8980a8cf54514244f290e2.jpg_0.[39m
+2024-10-25 23:05:55,761 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-36-_jpg.rf.c20ba605ed8980a8cf54514244f290e2.jpg_0.[39m
+2024-10-25 23:05:55,762 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-36-_jpg.rf.c20ba605ed8980a8cf54514244f290e2.jpg
+2024-10-25 23:05:55,762 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.36bfc798e1cc7cc2f5ddca09477a97f5.jpg
+2024-10-25 23:05:55,839 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.36bfc798e1cc7cc2f5ddca09477a97f5.jpg
+2024-10-25 23:05:57,635 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-37-_jpg.rf.36bfc798e1cc7cc2f5ddca09477a97f5.jpg_0.[39m
+2024-10-25 23:05:57,637 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-37-_jpg.rf.36bfc798e1cc7cc2f5ddca09477a97f5.jpg_0.[39m
+2024-10-25 23:05:57,639 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.36bfc798e1cc7cc2f5ddca09477a97f5.jpg
+2024-10-25 23:05:57,640 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.59b97da1fd554ce9b03a7b619084f28d.jpg
+2024-10-25 23:05:57,667 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.59b97da1fd554ce9b03a7b619084f28d.jpg
+2024-10-25 23:05:59,190 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-37-_jpg.rf.59b97da1fd554ce9b03a7b619084f28d.jpg_0.[39m
+2024-10-25 23:05:59,195 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-37-_jpg.rf.59b97da1fd554ce9b03a7b619084f28d.jpg_0.[39m
+2024-10-25 23:05:59,197 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.59b97da1fd554ce9b03a7b619084f28d.jpg
+2024-10-25 23:05:59,198 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.bd1ad2dd3631de86988b7a13d7dd9412.jpg
+2024-10-25 23:05:59,489 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.bd1ad2dd3631de86988b7a13d7dd9412.jpg
+2024-10-25 23:06:01,634 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-37-_jpg.rf.bd1ad2dd3631de86988b7a13d7dd9412.jpg_0.[39m
+2024-10-25 23:06:01,636 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-37-_jpg.rf.bd1ad2dd3631de86988b7a13d7dd9412.jpg_0.[39m
+2024-10-25 23:06:01,637 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-37-_jpg.rf.bd1ad2dd3631de86988b7a13d7dd9412.jpg
+2024-10-25 23:06:01,638 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.1d0fb7801a6f41b08ee2919e6302e1c5.jpg
+2024-10-25 23:06:01,668 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.1d0fb7801a6f41b08ee2919e6302e1c5.jpg
+2024-10-25 23:06:03,679 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-39-_jpg.rf.1d0fb7801a6f41b08ee2919e6302e1c5.jpg_0.[39m
+2024-10-25 23:06:03,681 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-39-_jpg.rf.1d0fb7801a6f41b08ee2919e6302e1c5.jpg_0.[39m
+2024-10-25 23:06:03,682 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.1d0fb7801a6f41b08ee2919e6302e1c5.jpg
+2024-10-25 23:06:03,683 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.4cc96aa96eefc2270cc5935a479e694a.jpg
+2024-10-25 23:06:04,017 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.4cc96aa96eefc2270cc5935a479e694a.jpg
+2024-10-25 23:06:05,515 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-39-_jpg.rf.4cc96aa96eefc2270cc5935a479e694a.jpg_0.[39m
+2024-10-25 23:06:05,518 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-39-_jpg.rf.4cc96aa96eefc2270cc5935a479e694a.jpg_0.[39m
+2024-10-25 23:06:05,519 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.4cc96aa96eefc2270cc5935a479e694a.jpg
+2024-10-25 23:06:05,520 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.92e290ce8161c42a25ce75d3cca1e888.jpg
+2024-10-25 23:06:05,553 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.92e290ce8161c42a25ce75d3cca1e888.jpg
+2024-10-25 23:06:07,210 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-39-_jpg.rf.92e290ce8161c42a25ce75d3cca1e888.jpg_0.[39m
+2024-10-25 23:06:07,211 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-39-_jpg.rf.92e290ce8161c42a25ce75d3cca1e888.jpg_0.[39m
+2024-10-25 23:06:07,212 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-39-_jpg.rf.92e290ce8161c42a25ce75d3cca1e888.jpg
+2024-10-25 23:06:07,213 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.056c54f93638afb4936920ee3a96761e.jpg
+2024-10-25 23:06:07,791 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.056c54f93638afb4936920ee3a96761e.jpg
+2024-10-25 23:06:09,446 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-4-_jpg.rf.056c54f93638afb4936920ee3a96761e.jpg_0.[39m
+2024-10-25 23:06:09,447 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-4-_jpg.rf.056c54f93638afb4936920ee3a96761e.jpg_0.[39m
+2024-10-25 23:06:09,448 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.056c54f93638afb4936920ee3a96761e.jpg
+2024-10-25 23:06:09,449 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.330eb58f93d855d32dd630755dec54ba.jpg
+2024-10-25 23:06:09,534 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.330eb58f93d855d32dd630755dec54ba.jpg
+2024-10-25 23:06:10,879 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-4-_jpg.rf.330eb58f93d855d32dd630755dec54ba.jpg_0.[39m
+2024-10-25 23:06:10,881 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-4-_jpg.rf.330eb58f93d855d32dd630755dec54ba.jpg_0.[39m
+2024-10-25 23:06:10,883 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.330eb58f93d855d32dd630755dec54ba.jpg
+2024-10-25 23:06:10,884 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.7314e9cf100fc444bf2197c6ce6cf809.jpg
+2024-10-25 23:06:10,966 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.7314e9cf100fc444bf2197c6ce6cf809.jpg
+2024-10-25 23:06:12,276 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-4-_jpg.rf.7314e9cf100fc444bf2197c6ce6cf809.jpg_0.[39m
+2024-10-25 23:06:12,278 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-4-_jpg.rf.7314e9cf100fc444bf2197c6ce6cf809.jpg_0.[39m
+2024-10-25 23:06:12,279 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-4-_jpg.rf.7314e9cf100fc444bf2197c6ce6cf809.jpg
+2024-10-25 23:06:12,280 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.5296156632744cd60bc35e3b2eab4e37.jpg
+2024-10-25 23:06:12,343 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.5296156632744cd60bc35e3b2eab4e37.jpg
+2024-10-25 23:06:14,041 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-41-_jpg.rf.5296156632744cd60bc35e3b2eab4e37.jpg_0.[39m
+2024-10-25 23:06:14,043 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-41-_jpg.rf.5296156632744cd60bc35e3b2eab4e37.jpg_0.[39m
+2024-10-25 23:06:14,044 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.5296156632744cd60bc35e3b2eab4e37.jpg
+2024-10-25 23:06:14,044 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.838c7e1279b1dedd92886fd1f8f3d44a.jpg
+2024-10-25 23:06:14,103 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.838c7e1279b1dedd92886fd1f8f3d44a.jpg
+2024-10-25 23:06:15,479 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-41-_jpg.rf.838c7e1279b1dedd92886fd1f8f3d44a.jpg_0.[39m
+2024-10-25 23:06:15,482 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-41-_jpg.rf.838c7e1279b1dedd92886fd1f8f3d44a.jpg_0.[39m
+2024-10-25 23:06:15,483 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.838c7e1279b1dedd92886fd1f8f3d44a.jpg
+2024-10-25 23:06:15,484 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.f5d9802c4bde267b1e4d8b58dee67b07.jpg
+2024-10-25 23:06:15,553 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.f5d9802c4bde267b1e4d8b58dee67b07.jpg
+2024-10-25 23:06:17,165 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-41-_jpg.rf.f5d9802c4bde267b1e4d8b58dee67b07.jpg_0.[39m
+2024-10-25 23:06:17,168 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-41-_jpg.rf.f5d9802c4bde267b1e4d8b58dee67b07.jpg_0.[39m
+2024-10-25 23:06:17,169 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-41-_jpg.rf.f5d9802c4bde267b1e4d8b58dee67b07.jpg
+2024-10-25 23:06:17,169 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.8c508858f02254bc59d33d03e1aaa0d1.jpg
+2024-10-25 23:06:17,261 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.8c508858f02254bc59d33d03e1aaa0d1.jpg
+2024-10-25 23:06:19,916 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-43-_jpg.rf.8c508858f02254bc59d33d03e1aaa0d1.jpg_0.[39m
+2024-10-25 23:06:19,918 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-43-_jpg.rf.8c508858f02254bc59d33d03e1aaa0d1.jpg_0.[39m
+2024-10-25 23:06:19,919 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.8c508858f02254bc59d33d03e1aaa0d1.jpg
+2024-10-25 23:06:19,920 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.a047797d038497fbfbc6048a24d67e79.jpg
+2024-10-25 23:06:19,956 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.a047797d038497fbfbc6048a24d67e79.jpg
+2024-10-25 23:06:22,200 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-43-_jpg.rf.a047797d038497fbfbc6048a24d67e79.jpg_0.[39m
+2024-10-25 23:06:22,208 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-43-_jpg.rf.a047797d038497fbfbc6048a24d67e79.jpg_0.[39m
+2024-10-25 23:06:22,213 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.a047797d038497fbfbc6048a24d67e79.jpg
+2024-10-25 23:06:22,217 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.a5fbc05c8d74c3cb0d1274b6f6342e86.jpg
+2024-10-25 23:06:22,458 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.a5fbc05c8d74c3cb0d1274b6f6342e86.jpg
+2024-10-25 23:06:24,166 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-43-_jpg.rf.a5fbc05c8d74c3cb0d1274b6f6342e86.jpg_0.[39m
+2024-10-25 23:06:24,168 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-43-_jpg.rf.a5fbc05c8d74c3cb0d1274b6f6342e86.jpg_0.[39m
+2024-10-25 23:06:24,169 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-43-_jpg.rf.a5fbc05c8d74c3cb0d1274b6f6342e86.jpg
+2024-10-25 23:06:24,169 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.1533db5375778ccf132484fc8233815e.jpg
+2024-10-25 23:06:24,225 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.1533db5375778ccf132484fc8233815e.jpg
+2024-10-25 23:06:25,950 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-45-_jpg.rf.1533db5375778ccf132484fc8233815e.jpg_0.[39m
+2024-10-25 23:06:25,953 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-45-_jpg.rf.1533db5375778ccf132484fc8233815e.jpg_0.[39m
+2024-10-25 23:06:25,953 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.1533db5375778ccf132484fc8233815e.jpg
+2024-10-25 23:06:25,955 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.1533db5375778ccf132484fc8233815e.jpg
+2024-10-25 23:06:25,956 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.3df14fc3e94a78fdb33507f872ddaf1f.jpg
+2024-10-25 23:06:26,542 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.3df14fc3e94a78fdb33507f872ddaf1f.jpg
+2024-10-25 23:06:29,236 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-45-_jpg.rf.3df14fc3e94a78fdb33507f872ddaf1f.jpg_0.[39m
+2024-10-25 23:06:29,239 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-45-_jpg.rf.3df14fc3e94a78fdb33507f872ddaf1f.jpg_0.[39m
+2024-10-25 23:06:29,240 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.3df14fc3e94a78fdb33507f872ddaf1f.jpg
+2024-10-25 23:06:29,241 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.3df14fc3e94a78fdb33507f872ddaf1f.jpg
+2024-10-25 23:06:29,288 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.f6d544c7285ac8a7f0da5da63fdeb103.jpg
+2024-10-25 23:06:29,289 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.f6d544c7285ac8a7f0da5da63fdeb103.jpg
+2024-10-25 23:06:31,003 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-45-_jpg.rf.f6d544c7285ac8a7f0da5da63fdeb103.jpg_0.[39m
+2024-10-25 23:06:31,007 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-45-_jpg.rf.f6d544c7285ac8a7f0da5da63fdeb103.jpg_0.[39m
+2024-10-25 23:06:31,008 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-45-_jpg.rf.f6d544c7285ac8a7f0da5da63fdeb103.jpg
+2024-10-25 23:06:31,009 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.bc6c73f8ee268bd96c9a2560b1d8e11c.jpg
+2024-10-25 23:06:31,097 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.bc6c73f8ee268bd96c9a2560b1d8e11c.jpg
+2024-10-25 23:06:33,089 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-47-_jpg.rf.bc6c73f8ee268bd96c9a2560b1d8e11c.jpg_0.[39m
+2024-10-25 23:06:33,090 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-47-_jpg.rf.bc6c73f8ee268bd96c9a2560b1d8e11c.jpg_0.[39m
+2024-10-25 23:06:33,092 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.bc6c73f8ee268bd96c9a2560b1d8e11c.jpg
+2024-10-25 23:06:33,093 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.bc6c73f8ee268bd96c9a2560b1d8e11c.jpg
+2024-10-25 23:06:33,093 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.cd0157a8e595cff0e57b008f6cb269dd.jpg
+2024-10-25 23:06:33,118 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.cd0157a8e595cff0e57b008f6cb269dd.jpg
+2024-10-25 23:06:34,933 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-47-_jpg.rf.cd0157a8e595cff0e57b008f6cb269dd.jpg_0.[39m
+2024-10-25 23:06:34,936 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-47-_jpg.rf.cd0157a8e595cff0e57b008f6cb269dd.jpg_0.[39m
+2024-10-25 23:06:34,937 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.cd0157a8e595cff0e57b008f6cb269dd.jpg
+2024-10-25 23:06:34,938 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.fd429376c2826ee3534fae717f2a1b00.jpg
+2024-10-25 23:06:35,088 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.fd429376c2826ee3534fae717f2a1b00.jpg
+2024-10-25 23:06:36,687 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-47-_jpg.rf.fd429376c2826ee3534fae717f2a1b00.jpg_0.[39m
+2024-10-25 23:06:36,689 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-47-_jpg.rf.fd429376c2826ee3534fae717f2a1b00.jpg_0.[39m
+2024-10-25 23:06:36,690 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-47-_jpg.rf.fd429376c2826ee3534fae717f2a1b00.jpg
+2024-10-25 23:06:36,691 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.0ae8104ac482a571104099ca20de945d.jpg
+2024-10-25 23:06:36,833 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.0ae8104ac482a571104099ca20de945d.jpg
+2024-10-25 23:06:38,435 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-48-_jpg.rf.0ae8104ac482a571104099ca20de945d.jpg_0.[39m
+2024-10-25 23:06:38,437 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-48-_jpg.rf.0ae8104ac482a571104099ca20de945d.jpg_0.[39m
+2024-10-25 23:06:38,438 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.0ae8104ac482a571104099ca20de945d.jpg
+2024-10-25 23:06:38,438 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.3de72eaea53d6fa13d1aeb990b1a8520.jpg
+2024-10-25 23:06:38,506 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.3de72eaea53d6fa13d1aeb990b1a8520.jpg
+2024-10-25 23:06:40,179 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-48-_jpg.rf.3de72eaea53d6fa13d1aeb990b1a8520.jpg_0.[39m
+2024-10-25 23:06:40,180 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-48-_jpg.rf.3de72eaea53d6fa13d1aeb990b1a8520.jpg_0.[39m
+2024-10-25 23:06:40,181 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.3de72eaea53d6fa13d1aeb990b1a8520.jpg
+2024-10-25 23:06:40,183 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.3de72eaea53d6fa13d1aeb990b1a8520.jpg
+2024-10-25 23:06:40,184 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.b411d5ca561ed9d0868da08202e2e8a1.jpg
+2024-10-25 23:06:40,209 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.b411d5ca561ed9d0868da08202e2e8a1.jpg
+2024-10-25 23:06:41,784 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-48-_jpg.rf.b411d5ca561ed9d0868da08202e2e8a1.jpg_0.[39m
+2024-10-25 23:06:41,786 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-48-_jpg.rf.b411d5ca561ed9d0868da08202e2e8a1.jpg_0.[39m
+2024-10-25 23:06:41,787 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-48-_jpg.rf.b411d5ca561ed9d0868da08202e2e8a1.jpg
+2024-10-25 23:06:41,788 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.1b92a94fce96c7504c03649adcbb1878.jpg
+2024-10-25 23:06:41,909 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.1b92a94fce96c7504c03649adcbb1878.jpg
+2024-10-25 23:06:43,236 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-49-_jpg.rf.1b92a94fce96c7504c03649adcbb1878.jpg_0.[39m
+2024-10-25 23:06:43,237 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-49-_jpg.rf.1b92a94fce96c7504c03649adcbb1878.jpg_0.[39m
+2024-10-25 23:06:43,239 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.1b92a94fce96c7504c03649adcbb1878.jpg
+2024-10-25 23:06:43,240 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.536e47ae8edd1adf6fe79d2b11323b65.jpg
+2024-10-25 23:06:43,294 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.536e47ae8edd1adf6fe79d2b11323b65.jpg
+2024-10-25 23:06:44,729 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-49-_jpg.rf.536e47ae8edd1adf6fe79d2b11323b65.jpg_0.[39m
+2024-10-25 23:06:44,733 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-49-_jpg.rf.536e47ae8edd1adf6fe79d2b11323b65.jpg_0.[39m
+2024-10-25 23:06:44,736 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.536e47ae8edd1adf6fe79d2b11323b65.jpg
+2024-10-25 23:06:44,738 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.b25d0f057c9e02332bba62456edf2ec6.jpg
+2024-10-25 23:06:44,790 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.b25d0f057c9e02332bba62456edf2ec6.jpg
+2024-10-25 23:06:46,450 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-49-_jpg.rf.b25d0f057c9e02332bba62456edf2ec6.jpg_0.[39m
+2024-10-25 23:06:46,451 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-49-_jpg.rf.b25d0f057c9e02332bba62456edf2ec6.jpg_0.[39m
+2024-10-25 23:06:46,452 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.b25d0f057c9e02332bba62456edf2ec6.jpg
+2024-10-25 23:06:46,453 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-49-_jpg.rf.b25d0f057c9e02332bba62456edf2ec6.jpg
+2024-10-25 23:06:46,455 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.b26156142cd03b770e907b7622944f5f.jpg
+2024-10-25 23:06:46,478 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.b26156142cd03b770e907b7622944f5f.jpg
+2024-10-25 23:06:48,342 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-50-_jpg.rf.b26156142cd03b770e907b7622944f5f.jpg_0.[39m
+2024-10-25 23:06:48,345 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-50-_jpg.rf.b26156142cd03b770e907b7622944f5f.jpg_0.[39m
+2024-10-25 23:06:48,346 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.b26156142cd03b770e907b7622944f5f.jpg
+2024-10-25 23:06:48,346 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.db5215bf85c504eb525c0c7583f00dc5.jpg
+2024-10-25 23:06:48,357 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.db5215bf85c504eb525c0c7583f00dc5.jpg
+2024-10-25 23:06:49,853 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-50-_jpg.rf.db5215bf85c504eb525c0c7583f00dc5.jpg_0.[39m
+2024-10-25 23:06:49,855 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-50-_jpg.rf.db5215bf85c504eb525c0c7583f00dc5.jpg_0.[39m
+2024-10-25 23:06:49,857 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.db5215bf85c504eb525c0c7583f00dc5.jpg
+2024-10-25 23:06:49,858 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.dc756aeea775eb94fe638fc549aaa700.jpg
+2024-10-25 23:06:49,902 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.dc756aeea775eb94fe638fc549aaa700.jpg
+2024-10-25 23:06:51,228 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-50-_jpg.rf.dc756aeea775eb94fe638fc549aaa700.jpg_0.[39m
+2024-10-25 23:06:51,231 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-50-_jpg.rf.dc756aeea775eb94fe638fc549aaa700.jpg_0.[39m
+2024-10-25 23:06:51,232 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.dc756aeea775eb94fe638fc549aaa700.jpg
+2024-10-25 23:06:51,233 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-50-_jpg.rf.dc756aeea775eb94fe638fc549aaa700.jpg
+2024-10-25 23:06:51,234 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.23ecd3d0c3c7bcf8ac5f809f95c83718.jpg
+2024-10-25 23:06:51,287 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.23ecd3d0c3c7bcf8ac5f809f95c83718.jpg
+2024-10-25 23:06:52,834 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-52-_jpg.rf.23ecd3d0c3c7bcf8ac5f809f95c83718.jpg_0.[39m
+2024-10-25 23:06:52,836 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-52-_jpg.rf.23ecd3d0c3c7bcf8ac5f809f95c83718.jpg_0.[39m
+2024-10-25 23:06:52,837 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.23ecd3d0c3c7bcf8ac5f809f95c83718.jpg
+2024-10-25 23:06:52,838 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.23ecd3d0c3c7bcf8ac5f809f95c83718.jpg
+2024-10-25 23:06:52,839 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.3d8eb5fbef26ec9e532f57d46870a34c.jpg
+2024-10-25 23:06:52,911 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.3d8eb5fbef26ec9e532f57d46870a34c.jpg
+2024-10-25 23:06:54,603 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-52-_jpg.rf.3d8eb5fbef26ec9e532f57d46870a34c.jpg_0.[39m
+2024-10-25 23:06:54,605 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-52-_jpg.rf.3d8eb5fbef26ec9e532f57d46870a34c.jpg_0.[39m
+2024-10-25 23:06:54,606 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.3d8eb5fbef26ec9e532f57d46870a34c.jpg
+2024-10-25 23:06:54,607 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.e529bdfaa3070f6fb743a54bd4a6fff1.jpg
+2024-10-25 23:06:54,622 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.e529bdfaa3070f6fb743a54bd4a6fff1.jpg
+2024-10-25 23:06:56,169 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-52-_jpg.rf.e529bdfaa3070f6fb743a54bd4a6fff1.jpg_0.[39m
+2024-10-25 23:06:56,173 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-52-_jpg.rf.e529bdfaa3070f6fb743a54bd4a6fff1.jpg_0.[39m
+2024-10-25 23:06:56,175 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-52-_jpg.rf.e529bdfaa3070f6fb743a54bd4a6fff1.jpg
+2024-10-25 23:06:56,177 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.0fe03a9f43d221aa71c37096a39d222c.jpg
+2024-10-25 23:06:56,181 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.0fe03a9f43d221aa71c37096a39d222c.jpg
+2024-10-25 23:06:58,513 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-53-_jpg.rf.0fe03a9f43d221aa71c37096a39d222c.jpg_0.[39m
+2024-10-25 23:06:58,520 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-53-_jpg.rf.0fe03a9f43d221aa71c37096a39d222c.jpg_0.[39m
+2024-10-25 23:06:58,522 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.0fe03a9f43d221aa71c37096a39d222c.jpg
+2024-10-25 23:06:58,524 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.47c0e71059429af904b195629a2b9937.jpg
+2024-10-25 23:06:58,834 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.47c0e71059429af904b195629a2b9937.jpg
+2024-10-25 23:07:01,186 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-53-_jpg.rf.47c0e71059429af904b195629a2b9937.jpg_0.[39m
+2024-10-25 23:07:01,190 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-53-_jpg.rf.47c0e71059429af904b195629a2b9937.jpg_0.[39m
+2024-10-25 23:07:01,192 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.47c0e71059429af904b195629a2b9937.jpg
+2024-10-25 23:07:01,192 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.6c4cd100cf312ad8a93c0311ab1f2057.jpg
+2024-10-25 23:07:01,489 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.6c4cd100cf312ad8a93c0311ab1f2057.jpg
+2024-10-25 23:07:03,311 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-53-_jpg.rf.6c4cd100cf312ad8a93c0311ab1f2057.jpg_0.[39m
+2024-10-25 23:07:03,312 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-53-_jpg.rf.6c4cd100cf312ad8a93c0311ab1f2057.jpg_0.[39m
+2024-10-25 23:07:03,313 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.6c4cd100cf312ad8a93c0311ab1f2057.jpg
+2024-10-25 23:07:03,314 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-53-_jpg.rf.6c4cd100cf312ad8a93c0311ab1f2057.jpg
+2024-10-25 23:07:03,315 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.73107947876b781741a4e5e442ad337d.jpg
+2024-10-25 23:07:03,327 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.73107947876b781741a4e5e442ad337d.jpg
+2024-10-25 23:07:05,245 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-54-_jpg.rf.73107947876b781741a4e5e442ad337d.jpg_0.[39m
+2024-10-25 23:07:05,249 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-54-_jpg.rf.73107947876b781741a4e5e442ad337d.jpg_0.[39m
+2024-10-25 23:07:05,250 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.73107947876b781741a4e5e442ad337d.jpg
+2024-10-25 23:07:05,251 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.a4a7d8047fca1586b9d9973c1a05bf9b.jpg
+2024-10-25 23:07:05,299 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.a4a7d8047fca1586b9d9973c1a05bf9b.jpg
+2024-10-25 23:07:07,479 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-54-_jpg.rf.a4a7d8047fca1586b9d9973c1a05bf9b.jpg_0.[39m
+2024-10-25 23:07:07,480 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-54-_jpg.rf.a4a7d8047fca1586b9d9973c1a05bf9b.jpg_0.[39m
+2024-10-25 23:07:07,481 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.a4a7d8047fca1586b9d9973c1a05bf9b.jpg
+2024-10-25 23:07:07,482 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.f5737a94d9f96a885d15218e0dc85b41.jpg
+2024-10-25 23:07:07,723 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.f5737a94d9f96a885d15218e0dc85b41.jpg
+2024-10-25 23:07:09,358 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-54-_jpg.rf.f5737a94d9f96a885d15218e0dc85b41.jpg_0.[39m
+2024-10-25 23:07:09,360 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-54-_jpg.rf.f5737a94d9f96a885d15218e0dc85b41.jpg_0.[39m
+2024-10-25 23:07:09,362 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.f5737a94d9f96a885d15218e0dc85b41.jpg
+2024-10-25 23:07:09,364 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-54-_jpg.rf.f5737a94d9f96a885d15218e0dc85b41.jpg
+2024-10-25 23:07:09,369 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.8554c5116b13f9bfd7248ae2eb127d6c.jpg
+2024-10-25 23:07:09,431 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.8554c5116b13f9bfd7248ae2eb127d6c.jpg
+2024-10-25 23:07:11,407 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-56-_jpg.rf.8554c5116b13f9bfd7248ae2eb127d6c.jpg_0.[39m
+2024-10-25 23:07:11,409 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-56-_jpg.rf.8554c5116b13f9bfd7248ae2eb127d6c.jpg_0.[39m
+2024-10-25 23:07:11,411 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.8554c5116b13f9bfd7248ae2eb127d6c.jpg
+2024-10-25 23:07:11,413 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.93e8b9181a1a05e11f0a37ad45ec6aff.jpg
+2024-10-25 23:07:11,547 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.93e8b9181a1a05e11f0a37ad45ec6aff.jpg
+2024-10-25 23:07:12,963 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-56-_jpg.rf.93e8b9181a1a05e11f0a37ad45ec6aff.jpg_0.[39m
+2024-10-25 23:07:12,965 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-56-_jpg.rf.93e8b9181a1a05e11f0a37ad45ec6aff.jpg_0.[39m
+2024-10-25 23:07:12,966 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.93e8b9181a1a05e11f0a37ad45ec6aff.jpg
+2024-10-25 23:07:12,967 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.e1c29e815c178eaa17c04066531f098c.jpg
+2024-10-25 23:07:12,975 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.e1c29e815c178eaa17c04066531f098c.jpg
+2024-10-25 23:07:15,978 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-56-_jpg.rf.e1c29e815c178eaa17c04066531f098c.jpg_0.[39m
+2024-10-25 23:07:15,981 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-56-_jpg.rf.e1c29e815c178eaa17c04066531f098c.jpg_0.[39m
+2024-10-25 23:07:15,982 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.e1c29e815c178eaa17c04066531f098c.jpg
+2024-10-25 23:07:15,983 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-56-_jpg.rf.e1c29e815c178eaa17c04066531f098c.jpg
+2024-10-25 23:07:15,984 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.12beee7f6edf91fc5dbfddc9a18a43a2.jpg
+2024-10-25 23:07:16,033 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.12beee7f6edf91fc5dbfddc9a18a43a2.jpg
+2024-10-25 23:07:19,315 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-57-_jpg.rf.12beee7f6edf91fc5dbfddc9a18a43a2.jpg_0.[39m
+2024-10-25 23:07:19,316 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-57-_jpg.rf.12beee7f6edf91fc5dbfddc9a18a43a2.jpg_0.[39m
+2024-10-25 23:07:19,317 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.12beee7f6edf91fc5dbfddc9a18a43a2.jpg
+2024-10-25 23:07:19,319 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.94311546e53d7f1df78a75c4b1be6a89.jpg
+2024-10-25 23:07:19,547 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.94311546e53d7f1df78a75c4b1be6a89.jpg
+2024-10-25 23:07:21,916 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-57-_jpg.rf.94311546e53d7f1df78a75c4b1be6a89.jpg_0.[39m
+2024-10-25 23:07:21,919 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-57-_jpg.rf.94311546e53d7f1df78a75c4b1be6a89.jpg_0.[39m
+2024-10-25 23:07:21,922 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.94311546e53d7f1df78a75c4b1be6a89.jpg
+2024-10-25 23:07:21,924 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.f719104149c64ffdc549c04dea41fcb2.jpg
+2024-10-25 23:07:21,937 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.f719104149c64ffdc549c04dea41fcb2.jpg
+2024-10-25 23:07:24,270 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-57-_jpg.rf.f719104149c64ffdc549c04dea41fcb2.jpg_0.[39m
+2024-10-25 23:07:24,273 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-57-_jpg.rf.f719104149c64ffdc549c04dea41fcb2.jpg_0.[39m
+2024-10-25 23:07:24,274 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-57-_jpg.rf.f719104149c64ffdc549c04dea41fcb2.jpg
+2024-10-25 23:07:24,275 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.5ee6b2385bc5c372f44a23edbff7e1aa.jpg
+2024-10-25 23:07:24,298 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.5ee6b2385bc5c372f44a23edbff7e1aa.jpg
+2024-10-25 23:07:26,699 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-6-_jpg.rf.5ee6b2385bc5c372f44a23edbff7e1aa.jpg_0.[39m
+2024-10-25 23:07:26,701 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-6-_jpg.rf.5ee6b2385bc5c372f44a23edbff7e1aa.jpg_0.[39m
+2024-10-25 23:07:26,702 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.5ee6b2385bc5c372f44a23edbff7e1aa.jpg
+2024-10-25 23:07:26,703 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.723abd6e5e029842d8350c7a871e3569.jpg
+2024-10-25 23:07:26,782 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.723abd6e5e029842d8350c7a871e3569.jpg
+2024-10-25 23:07:29,159 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-6-_jpg.rf.723abd6e5e029842d8350c7a871e3569.jpg_0.[39m
+2024-10-25 23:07:29,161 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-6-_jpg.rf.723abd6e5e029842d8350c7a871e3569.jpg_0.[39m
+2024-10-25 23:07:29,163 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.723abd6e5e029842d8350c7a871e3569.jpg
+2024-10-25 23:07:29,164 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.d61765957f9849696e6015eaf2ff1ae7.jpg
+2024-10-25 23:07:29,175 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.d61765957f9849696e6015eaf2ff1ae7.jpg
+2024-10-25 23:07:31,427 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-6-_jpg.rf.d61765957f9849696e6015eaf2ff1ae7.jpg_0.[39m
+2024-10-25 23:07:31,429 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-6-_jpg.rf.d61765957f9849696e6015eaf2ff1ae7.jpg_0.[39m
+2024-10-25 23:07:31,431 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-6-_jpg.rf.d61765957f9849696e6015eaf2ff1ae7.jpg
+2024-10-25 23:07:31,432 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.283c287fff634afb6e75130cfd7e3c6f.jpg
+2024-10-25 23:07:31,439 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.283c287fff634afb6e75130cfd7e3c6f.jpg
+2024-10-25 23:07:33,634 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-60-_jpg.rf.283c287fff634afb6e75130cfd7e3c6f.jpg_0.[39m
+2024-10-25 23:07:33,636 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-60-_jpg.rf.283c287fff634afb6e75130cfd7e3c6f.jpg_0.[39m
+2024-10-25 23:07:33,637 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.283c287fff634afb6e75130cfd7e3c6f.jpg
+2024-10-25 23:07:33,638 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.4969e4ccdac939e982bb22d61e1b63fe.jpg
+2024-10-25 23:07:33,647 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.4969e4ccdac939e982bb22d61e1b63fe.jpg
+2024-10-25 23:07:36,103 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-60-_jpg.rf.4969e4ccdac939e982bb22d61e1b63fe.jpg_0.[39m
+2024-10-25 23:07:36,105 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-60-_jpg.rf.4969e4ccdac939e982bb22d61e1b63fe.jpg_0.[39m
+2024-10-25 23:07:36,106 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.4969e4ccdac939e982bb22d61e1b63fe.jpg
+2024-10-25 23:07:36,107 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.91c40e8ea8fcd91fd3f0ef2e0afb4168.jpg
+2024-10-25 23:07:36,158 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.91c40e8ea8fcd91fd3f0ef2e0afb4168.jpg
+2024-10-25 23:07:38,458 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-60-_jpg.rf.91c40e8ea8fcd91fd3f0ef2e0afb4168.jpg_0.[39m
+2024-10-25 23:07:38,460 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-60-_jpg.rf.91c40e8ea8fcd91fd3f0ef2e0afb4168.jpg_0.[39m
+2024-10-25 23:07:38,461 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-60-_jpg.rf.91c40e8ea8fcd91fd3f0ef2e0afb4168.jpg
+2024-10-25 23:07:38,462 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.70c801e35c5d28da25b6ddb11b7e6ce3.jpg
+2024-10-25 23:07:38,470 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.70c801e35c5d28da25b6ddb11b7e6ce3.jpg
+2024-10-25 23:07:40,751 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-61-_jpg.rf.70c801e35c5d28da25b6ddb11b7e6ce3.jpg_0.[39m
+2024-10-25 23:07:40,755 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-61-_jpg.rf.70c801e35c5d28da25b6ddb11b7e6ce3.jpg_0.[39m
+2024-10-25 23:07:40,756 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.70c801e35c5d28da25b6ddb11b7e6ce3.jpg
+2024-10-25 23:07:40,757 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.9c456469d6b3263a9817346de2b61a7f.jpg
+2024-10-25 23:07:40,792 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.9c456469d6b3263a9817346de2b61a7f.jpg
+2024-10-25 23:07:43,302 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-61-_jpg.rf.9c456469d6b3263a9817346de2b61a7f.jpg_0.[39m
+2024-10-25 23:07:43,304 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-61-_jpg.rf.9c456469d6b3263a9817346de2b61a7f.jpg_0.[39m
+2024-10-25 23:07:43,305 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.9c456469d6b3263a9817346de2b61a7f.jpg
+2024-10-25 23:07:43,306 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.cf884334e16714187fb477a8a12ebedb.jpg
+2024-10-25 23:07:43,314 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.cf884334e16714187fb477a8a12ebedb.jpg
+2024-10-25 23:07:45,804 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-61-_jpg.rf.cf884334e16714187fb477a8a12ebedb.jpg_0.[39m
+2024-10-25 23:07:45,806 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-61-_jpg.rf.cf884334e16714187fb477a8a12ebedb.jpg_0.[39m
+2024-10-25 23:07:45,807 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-61-_jpg.rf.cf884334e16714187fb477a8a12ebedb.jpg
+2024-10-25 23:07:45,808 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.62996e7e188b325120ee1cb7d4f7a397.jpg
+2024-10-25 23:07:45,901 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.62996e7e188b325120ee1cb7d4f7a397.jpg
+2024-10-25 23:07:48,430 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-62-_jpg.rf.62996e7e188b325120ee1cb7d4f7a397.jpg_0.[39m
+2024-10-25 23:07:48,432 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-62-_jpg.rf.62996e7e188b325120ee1cb7d4f7a397.jpg_0.[39m
+2024-10-25 23:07:48,433 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.62996e7e188b325120ee1cb7d4f7a397.jpg
+2024-10-25 23:07:48,434 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.7a864588918ad6182d7630df5d816e71.jpg
+2024-10-25 23:07:48,442 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.7a864588918ad6182d7630df5d816e71.jpg
+2024-10-25 23:07:50,714 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-62-_jpg.rf.7a864588918ad6182d7630df5d816e71.jpg_0.[39m
+2024-10-25 23:07:50,716 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-62-_jpg.rf.7a864588918ad6182d7630df5d816e71.jpg_0.[39m
+2024-10-25 23:07:50,717 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.7a864588918ad6182d7630df5d816e71.jpg
+2024-10-25 23:07:50,718 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.957f10ec19205ce3859abd0c70122282.jpg
+2024-10-25 23:07:50,760 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.957f10ec19205ce3859abd0c70122282.jpg
+2024-10-25 23:07:53,044 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-62-_jpg.rf.957f10ec19205ce3859abd0c70122282.jpg_0.[39m
+2024-10-25 23:07:53,046 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-62-_jpg.rf.957f10ec19205ce3859abd0c70122282.jpg_0.[39m
+2024-10-25 23:07:53,048 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-62-_jpg.rf.957f10ec19205ce3859abd0c70122282.jpg
+2024-10-25 23:07:53,049 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.bbea6314f7b27c85da784b520ed75dea.jpg
+2024-10-25 23:07:53,055 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.bbea6314f7b27c85da784b520ed75dea.jpg
+2024-10-25 23:07:55,315 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-63-_jpg.rf.bbea6314f7b27c85da784b520ed75dea.jpg_0.[39m
+2024-10-25 23:07:55,317 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-63-_jpg.rf.bbea6314f7b27c85da784b520ed75dea.jpg_0.[39m
+2024-10-25 23:07:55,318 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.bbea6314f7b27c85da784b520ed75dea.jpg
+2024-10-25 23:07:55,319 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.bfaa359abb60e3108f410282433caf1c.jpg
+2024-10-25 23:07:55,367 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.bfaa359abb60e3108f410282433caf1c.jpg
+2024-10-25 23:07:57,975 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-63-_jpg.rf.bfaa359abb60e3108f410282433caf1c.jpg_0.[39m
+2024-10-25 23:07:57,977 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-63-_jpg.rf.bfaa359abb60e3108f410282433caf1c.jpg_0.[39m
+2024-10-25 23:07:57,978 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.bfaa359abb60e3108f410282433caf1c.jpg
+2024-10-25 23:07:57,979 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.e7e2d3fa1bb764aaf402e20eb8ce723d.jpg
+2024-10-25 23:07:57,987 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.e7e2d3fa1bb764aaf402e20eb8ce723d.jpg
+2024-10-25 23:08:00,182 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-63-_jpg.rf.e7e2d3fa1bb764aaf402e20eb8ce723d.jpg_0.[39m
+2024-10-25 23:08:00,185 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-63-_jpg.rf.e7e2d3fa1bb764aaf402e20eb8ce723d.jpg_0.[39m
+2024-10-25 23:08:00,186 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-63-_jpg.rf.e7e2d3fa1bb764aaf402e20eb8ce723d.jpg
+2024-10-25 23:08:00,188 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.1a6df7a65b276c0a9b54b0e53f9759a9.jpg
+2024-10-25 23:08:00,509 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.1a6df7a65b276c0a9b54b0e53f9759a9.jpg
+2024-10-25 23:08:02,802 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-64-_jpg.rf.1a6df7a65b276c0a9b54b0e53f9759a9.jpg_0.[39m
+2024-10-25 23:08:02,804 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-64-_jpg.rf.1a6df7a65b276c0a9b54b0e53f9759a9.jpg_0.[39m
+2024-10-25 23:08:02,806 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.1a6df7a65b276c0a9b54b0e53f9759a9.jpg
+2024-10-25 23:08:02,807 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.d68c0443c2ff95486e6b081d421acaa4.jpg
+2024-10-25 23:08:02,814 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.d68c0443c2ff95486e6b081d421acaa4.jpg
+2024-10-25 23:08:05,074 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-64-_jpg.rf.d68c0443c2ff95486e6b081d421acaa4.jpg_0.[39m
+2024-10-25 23:08:05,077 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-64-_jpg.rf.d68c0443c2ff95486e6b081d421acaa4.jpg_0.[39m
+2024-10-25 23:08:05,079 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.d68c0443c2ff95486e6b081d421acaa4.jpg
+2024-10-25 23:08:05,081 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.dc40caad9a6bbf97c16b03a4369de83f.jpg
+2024-10-25 23:08:05,125 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.dc40caad9a6bbf97c16b03a4369de83f.jpg
+2024-10-25 23:08:07,381 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-64-_jpg.rf.dc40caad9a6bbf97c16b03a4369de83f.jpg_0.[39m
+2024-10-25 23:08:07,384 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-64-_jpg.rf.dc40caad9a6bbf97c16b03a4369de83f.jpg_0.[39m
+2024-10-25 23:08:07,385 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-64-_jpg.rf.dc40caad9a6bbf97c16b03a4369de83f.jpg
+2024-10-25 23:08:07,387 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.83d62e93d341e269b848c1e3c9f744dc.jpg
+2024-10-25 23:08:07,394 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.83d62e93d341e269b848c1e3c9f744dc.jpg
+2024-10-25 23:08:09,854 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-66-_jpg.rf.83d62e93d341e269b848c1e3c9f744dc.jpg_0.[39m
+2024-10-25 23:08:09,857 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-66-_jpg.rf.83d62e93d341e269b848c1e3c9f744dc.jpg_0.[39m
+2024-10-25 23:08:09,858 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.83d62e93d341e269b848c1e3c9f744dc.jpg
+2024-10-25 23:08:09,859 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.c629ebcdd8e10165e66e40fd6dec5879.jpg
+2024-10-25 23:08:09,970 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.c629ebcdd8e10165e66e40fd6dec5879.jpg
+2024-10-25 23:08:12,254 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-66-_jpg.rf.c629ebcdd8e10165e66e40fd6dec5879.jpg_0.[39m
+2024-10-25 23:08:12,256 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-66-_jpg.rf.c629ebcdd8e10165e66e40fd6dec5879.jpg_0.[39m
+2024-10-25 23:08:12,258 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.c629ebcdd8e10165e66e40fd6dec5879.jpg
+2024-10-25 23:08:12,259 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.ea88f6012bd5a866c63f7bee5d2354f2.jpg
+2024-10-25 23:08:12,292 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.ea88f6012bd5a866c63f7bee5d2354f2.jpg
+2024-10-25 23:08:14,470 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-66-_jpg.rf.ea88f6012bd5a866c63f7bee5d2354f2.jpg_0.[39m
+2024-10-25 23:08:14,472 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-66-_jpg.rf.ea88f6012bd5a866c63f7bee5d2354f2.jpg_0.[39m
+2024-10-25 23:08:14,474 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-66-_jpg.rf.ea88f6012bd5a866c63f7bee5d2354f2.jpg
+2024-10-25 23:08:14,476 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.1f299836bfad2d16f50407972c2f27c5.jpg
+2024-10-25 23:08:14,533 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.1f299836bfad2d16f50407972c2f27c5.jpg
+2024-10-25 23:08:16,810 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-67-_jpg.rf.1f299836bfad2d16f50407972c2f27c5.jpg_0.[39m
+2024-10-25 23:08:16,812 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-67-_jpg.rf.1f299836bfad2d16f50407972c2f27c5.jpg_0.[39m
+2024-10-25 23:08:16,813 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.1f299836bfad2d16f50407972c2f27c5.jpg
+2024-10-25 23:08:16,814 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.7a1401f85a9d5c5cdadab25b30337541.jpg
+2024-10-25 23:08:16,822 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.7a1401f85a9d5c5cdadab25b30337541.jpg
+2024-10-25 23:08:19,083 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-67-_jpg.rf.7a1401f85a9d5c5cdadab25b30337541.jpg_0.[39m
+2024-10-25 23:08:19,086 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-67-_jpg.rf.7a1401f85a9d5c5cdadab25b30337541.jpg_0.[39m
+2024-10-25 23:08:19,087 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.7a1401f85a9d5c5cdadab25b30337541.jpg
+2024-10-25 23:08:19,088 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.97a9bc98a7a74e2393a1ceefce9fc027.jpg
+2024-10-25 23:08:19,096 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.97a9bc98a7a74e2393a1ceefce9fc027.jpg
+2024-10-25 23:08:21,508 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-67-_jpg.rf.97a9bc98a7a74e2393a1ceefce9fc027.jpg_0.[39m
+2024-10-25 23:08:21,510 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-67-_jpg.rf.97a9bc98a7a74e2393a1ceefce9fc027.jpg_0.[39m
+2024-10-25 23:08:21,511 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-67-_jpg.rf.97a9bc98a7a74e2393a1ceefce9fc027.jpg
+2024-10-25 23:08:21,513 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.1a25437c571ad451753805a75366a6bf.jpg
+2024-10-25 23:08:21,519 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.1a25437c571ad451753805a75366a6bf.jpg
+2024-10-25 23:08:23,735 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-68-_jpg.rf.1a25437c571ad451753805a75366a6bf.jpg_0.[39m
+2024-10-25 23:08:23,737 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-68-_jpg.rf.1a25437c571ad451753805a75366a6bf.jpg_0.[39m
+2024-10-25 23:08:23,739 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.1a25437c571ad451753805a75366a6bf.jpg
+2024-10-25 23:08:23,740 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.29b6e3d325537ac7fe9d4e400d3f1810.jpg
+2024-10-25 23:08:23,795 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.29b6e3d325537ac7fe9d4e400d3f1810.jpg
+2024-10-25 23:08:25,975 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-68-_jpg.rf.29b6e3d325537ac7fe9d4e400d3f1810.jpg_0.[39m
+2024-10-25 23:08:25,977 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-68-_jpg.rf.29b6e3d325537ac7fe9d4e400d3f1810.jpg_0.[39m
+2024-10-25 23:08:25,979 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.29b6e3d325537ac7fe9d4e400d3f1810.jpg
+2024-10-25 23:08:25,980 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.9b8d12a830e361d194ffc1470ca981d7.jpg
+2024-10-25 23:08:25,986 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.9b8d12a830e361d194ffc1470ca981d7.jpg
+2024-10-25 23:08:28,595 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-68-_jpg.rf.9b8d12a830e361d194ffc1470ca981d7.jpg_0.[39m
+2024-10-25 23:08:28,597 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-68-_jpg.rf.9b8d12a830e361d194ffc1470ca981d7.jpg_0.[39m
+2024-10-25 23:08:28,599 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-68-_jpg.rf.9b8d12a830e361d194ffc1470ca981d7.jpg
+2024-10-25 23:08:28,602 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.70cb0569a548db040492eff73628bf51.jpg
+2024-10-25 23:08:28,610 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.70cb0569a548db040492eff73628bf51.jpg
+2024-10-25 23:08:30,906 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-69-_jpg.rf.70cb0569a548db040492eff73628bf51.jpg_0.[39m
+2024-10-25 23:08:30,907 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-69-_jpg.rf.70cb0569a548db040492eff73628bf51.jpg_0.[39m
+2024-10-25 23:08:30,909 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.70cb0569a548db040492eff73628bf51.jpg
+2024-10-25 23:08:30,910 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.8dc02853425a16497ee650df116e0391.jpg
+2024-10-25 23:08:30,917 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.8dc02853425a16497ee650df116e0391.jpg
+2024-10-25 23:08:33,171 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-69-_jpg.rf.8dc02853425a16497ee650df116e0391.jpg_0.[39m
+2024-10-25 23:08:33,173 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-69-_jpg.rf.8dc02853425a16497ee650df116e0391.jpg_0.[39m
+2024-10-25 23:08:33,174 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.8dc02853425a16497ee650df116e0391.jpg
+2024-10-25 23:08:33,177 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.f48a7110911b1b55c52d3cc5d72859fd.jpg
+2024-10-25 23:08:33,204 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.f48a7110911b1b55c52d3cc5d72859fd.jpg
+2024-10-25 23:08:35,557 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-69-_jpg.rf.f48a7110911b1b55c52d3cc5d72859fd.jpg_0.[39m
+2024-10-25 23:08:35,562 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-69-_jpg.rf.f48a7110911b1b55c52d3cc5d72859fd.jpg_0.[39m
+2024-10-25 23:08:35,564 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-69-_jpg.rf.f48a7110911b1b55c52d3cc5d72859fd.jpg
+2024-10-25 23:08:35,567 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.21967b7af76c8f3d91d919b0f26d4392.jpg
+2024-10-25 23:08:35,571 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.21967b7af76c8f3d91d919b0f26d4392.jpg
+2024-10-25 23:08:38,160 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-7-_jpg.rf.21967b7af76c8f3d91d919b0f26d4392.jpg_0.[39m
+2024-10-25 23:08:38,165 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-7-_jpg.rf.21967b7af76c8f3d91d919b0f26d4392.jpg_0.[39m
+2024-10-25 23:08:38,167 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.21967b7af76c8f3d91d919b0f26d4392.jpg
+2024-10-25 23:08:38,169 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.292b6a20aeef53dad05d218f8e660cc4.jpg
+2024-10-25 23:08:38,172 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.292b6a20aeef53dad05d218f8e660cc4.jpg
+2024-10-25 23:08:40,587 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-7-_jpg.rf.292b6a20aeef53dad05d218f8e660cc4.jpg_0.[39m
+2024-10-25 23:08:40,590 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-7-_jpg.rf.292b6a20aeef53dad05d218f8e660cc4.jpg_0.[39m
+2024-10-25 23:08:40,592 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.292b6a20aeef53dad05d218f8e660cc4.jpg
+2024-10-25 23:08:40,594 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.e9517531031266d00cb0da35ef8f5dc6.jpg
+2024-10-25 23:08:40,634 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.e9517531031266d00cb0da35ef8f5dc6.jpg
+2024-10-25 23:08:42,891 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-7-_jpg.rf.e9517531031266d00cb0da35ef8f5dc6.jpg_0.[39m
+2024-10-25 23:08:42,893 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-7-_jpg.rf.e9517531031266d00cb0da35ef8f5dc6.jpg_0.[39m
+2024-10-25 23:08:42,895 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-7-_jpg.rf.e9517531031266d00cb0da35ef8f5dc6.jpg
+2024-10-25 23:08:42,896 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.61379e701d7bcb3f7a94c0eca2569a38.jpg
+2024-10-25 23:08:43,107 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.61379e701d7bcb3f7a94c0eca2569a38.jpg
+2024-10-25 23:08:45,612 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-70-_jpg.rf.61379e701d7bcb3f7a94c0eca2569a38.jpg_0.[39m
+2024-10-25 23:08:45,615 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-70-_jpg.rf.61379e701d7bcb3f7a94c0eca2569a38.jpg_0.[39m
+2024-10-25 23:08:45,616 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.61379e701d7bcb3f7a94c0eca2569a38.jpg
+2024-10-25 23:08:45,617 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.f3ffe29a67b77b7b1dd158847a1e0359.jpg
+2024-10-25 23:08:45,746 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.f3ffe29a67b77b7b1dd158847a1e0359.jpg
+2024-10-25 23:08:49,171 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-70-_jpg.rf.f3ffe29a67b77b7b1dd158847a1e0359.jpg_0.[39m
+2024-10-25 23:08:49,175 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-70-_jpg.rf.f3ffe29a67b77b7b1dd158847a1e0359.jpg_0.[39m
+2024-10-25 23:08:49,176 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.f3ffe29a67b77b7b1dd158847a1e0359.jpg
+2024-10-25 23:08:49,177 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.f91eafe7ecd628030697f028133ac344.jpg
+2024-10-25 23:08:49,227 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.f91eafe7ecd628030697f028133ac344.jpg
+2024-10-25 23:08:51,840 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-70-_jpg.rf.f91eafe7ecd628030697f028133ac344.jpg_0.[39m
+2024-10-25 23:08:51,843 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-70-_jpg.rf.f91eafe7ecd628030697f028133ac344.jpg_0.[39m
+2024-10-25 23:08:51,844 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-70-_jpg.rf.f91eafe7ecd628030697f028133ac344.jpg
+2024-10-25 23:08:51,845 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.bac96ded8e1a786c6684d5f591400f4d.jpg
+2024-10-25 23:08:51,881 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.bac96ded8e1a786c6684d5f591400f4d.jpg
+2024-10-25 23:08:53,993 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-71-_jpg.rf.bac96ded8e1a786c6684d5f591400f4d.jpg_0.[39m
+2024-10-25 23:08:53,996 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-71-_jpg.rf.bac96ded8e1a786c6684d5f591400f4d.jpg_0.[39m
+2024-10-25 23:08:53,997 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.bac96ded8e1a786c6684d5f591400f4d.jpg
+2024-10-25 23:08:53,999 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.e322fe927b150c49b6a617cef82a6719.jpg
+2024-10-25 23:08:54,044 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.e322fe927b150c49b6a617cef82a6719.jpg
+2024-10-25 23:08:55,916 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-71-_jpg.rf.e322fe927b150c49b6a617cef82a6719.jpg_0.[39m
+2024-10-25 23:08:55,918 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-71-_jpg.rf.e322fe927b150c49b6a617cef82a6719.jpg_0.[39m
+2024-10-25 23:08:55,920 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.e322fe927b150c49b6a617cef82a6719.jpg
+2024-10-25 23:08:55,921 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.f9849c7c7ced077ab95ac092a2a3d1d0.jpg
+2024-10-25 23:08:55,943 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.f9849c7c7ced077ab95ac092a2a3d1d0.jpg
+2024-10-25 23:08:57,553 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-71-_jpg.rf.f9849c7c7ced077ab95ac092a2a3d1d0.jpg_0.[39m
+2024-10-25 23:08:57,556 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-71-_jpg.rf.f9849c7c7ced077ab95ac092a2a3d1d0.jpg_0.[39m
+2024-10-25 23:08:57,557 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-71-_jpg.rf.f9849c7c7ced077ab95ac092a2a3d1d0.jpg
+2024-10-25 23:08:57,559 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.2290e80e8f1c8c45024c4575740a51ca.jpg
+2024-10-25 23:08:57,597 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.2290e80e8f1c8c45024c4575740a51ca.jpg
+2024-10-25 23:08:59,624 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-72-_jpg.rf.2290e80e8f1c8c45024c4575740a51ca.jpg_0.[39m
+2024-10-25 23:08:59,627 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-72-_jpg.rf.2290e80e8f1c8c45024c4575740a51ca.jpg_0.[39m
+2024-10-25 23:08:59,628 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.2290e80e8f1c8c45024c4575740a51ca.jpg
+2024-10-25 23:08:59,630 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.b16d372910fd0755e8eccb5ab1eedfc3.jpg
+2024-10-25 23:08:59,637 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.b16d372910fd0755e8eccb5ab1eedfc3.jpg
+2024-10-25 23:09:01,161 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-72-_jpg.rf.b16d372910fd0755e8eccb5ab1eedfc3.jpg_0.[39m
+2024-10-25 23:09:01,163 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-72-_jpg.rf.b16d372910fd0755e8eccb5ab1eedfc3.jpg_0.[39m
+2024-10-25 23:09:01,164 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.b16d372910fd0755e8eccb5ab1eedfc3.jpg
+2024-10-25 23:09:01,165 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.ecbad099c7513024947c7cc5a77a36ad.jpg
+2024-10-25 23:09:01,222 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.ecbad099c7513024947c7cc5a77a36ad.jpg
+2024-10-25 23:09:03,117 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-72-_jpg.rf.ecbad099c7513024947c7cc5a77a36ad.jpg_0.[39m
+2024-10-25 23:09:03,120 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-72-_jpg.rf.ecbad099c7513024947c7cc5a77a36ad.jpg_0.[39m
+2024-10-25 23:09:03,121 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-72-_jpg.rf.ecbad099c7513024947c7cc5a77a36ad.jpg
+2024-10-25 23:09:03,124 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.2e10f58f679ea7a0a2446bac5dce6641.jpg
+2024-10-25 23:09:03,161 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.2e10f58f679ea7a0a2446bac5dce6641.jpg
+2024-10-25 23:09:05,028 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-73-_jpg.rf.2e10f58f679ea7a0a2446bac5dce6641.jpg_0.[39m
+2024-10-25 23:09:05,031 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-73-_jpg.rf.2e10f58f679ea7a0a2446bac5dce6641.jpg_0.[39m
+2024-10-25 23:09:05,033 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.2e10f58f679ea7a0a2446bac5dce6641.jpg
+2024-10-25 23:09:05,034 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.3e8fbfd07604dc252fa551d1f858b8f3.jpg
+2024-10-25 23:09:05,041 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.3e8fbfd07604dc252fa551d1f858b8f3.jpg
+2024-10-25 23:09:06,870 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-73-_jpg.rf.3e8fbfd07604dc252fa551d1f858b8f3.jpg_0.[39m
+2024-10-25 23:09:06,873 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-73-_jpg.rf.3e8fbfd07604dc252fa551d1f858b8f3.jpg_0.[39m
+2024-10-25 23:09:06,875 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.3e8fbfd07604dc252fa551d1f858b8f3.jpg
+2024-10-25 23:09:06,877 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.6e1480489665aea0eeed7be3ec2f4f83.jpg
+2024-10-25 23:09:06,886 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.6e1480489665aea0eeed7be3ec2f4f83.jpg
+2024-10-25 23:09:08,577 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-73-_jpg.rf.6e1480489665aea0eeed7be3ec2f4f83.jpg_0.[39m
+2024-10-25 23:09:08,585 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-73-_jpg.rf.6e1480489665aea0eeed7be3ec2f4f83.jpg_0.[39m
+2024-10-25 23:09:08,592 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-73-_jpg.rf.6e1480489665aea0eeed7be3ec2f4f83.jpg
+2024-10-25 23:09:08,599 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.3c271d30b6dd2960585035dba3252095.jpg
+2024-10-25 23:09:09,035 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.3c271d30b6dd2960585035dba3252095.jpg
+2024-10-25 23:09:11,008 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-74-_jpg.rf.3c271d30b6dd2960585035dba3252095.jpg_0.[39m
+2024-10-25 23:09:11,011 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-74-_jpg.rf.3c271d30b6dd2960585035dba3252095.jpg_0.[39m
+2024-10-25 23:09:11,012 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.3c271d30b6dd2960585035dba3252095.jpg
+2024-10-25 23:09:11,014 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.ad1d62ddf717769fc965531da8fd8745.jpg
+2024-10-25 23:09:11,027 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.ad1d62ddf717769fc965531da8fd8745.jpg
+2024-10-25 23:09:12,755 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-74-_jpg.rf.ad1d62ddf717769fc965531da8fd8745.jpg_0.[39m
+2024-10-25 23:09:12,802 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-74-_jpg.rf.ad1d62ddf717769fc965531da8fd8745.jpg_0.[39m
+2024-10-25 23:09:12,804 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.ad1d62ddf717769fc965531da8fd8745.jpg
+2024-10-25 23:09:12,807 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.faee6264c94224ebbb358f9861036d3a.jpg
+2024-10-25 23:09:12,809 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.faee6264c94224ebbb358f9861036d3a.jpg
+2024-10-25 23:09:15,730 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-74-_jpg.rf.faee6264c94224ebbb358f9861036d3a.jpg_0.[39m
+2024-10-25 23:09:15,732 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-74-_jpg.rf.faee6264c94224ebbb358f9861036d3a.jpg_0.[39m
+2024-10-25 23:09:15,735 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-74-_jpg.rf.faee6264c94224ebbb358f9861036d3a.jpg
+2024-10-25 23:09:15,736 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.b0b9f8ff2ef89e7671fcecf609ee91b5.jpg
+2024-10-25 23:09:15,742 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.b0b9f8ff2ef89e7671fcecf609ee91b5.jpg
+2024-10-25 23:09:17,818 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-75-_jpg.rf.b0b9f8ff2ef89e7671fcecf609ee91b5.jpg_0.[39m
+2024-10-25 23:09:17,821 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-75-_jpg.rf.b0b9f8ff2ef89e7671fcecf609ee91b5.jpg_0.[39m
+2024-10-25 23:09:17,822 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.b0b9f8ff2ef89e7671fcecf609ee91b5.jpg
+2024-10-25 23:09:17,824 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.b26f0d0b4102b38500351a39394a229d.jpg
+2024-10-25 23:09:17,936 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.b26f0d0b4102b38500351a39394a229d.jpg
+2024-10-25 23:09:20,491 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-75-_jpg.rf.b26f0d0b4102b38500351a39394a229d.jpg_0.[39m
+2024-10-25 23:09:20,493 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-75-_jpg.rf.b26f0d0b4102b38500351a39394a229d.jpg_0.[39m
+2024-10-25 23:09:20,495 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.b26f0d0b4102b38500351a39394a229d.jpg
+2024-10-25 23:09:20,496 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.e3f5502ab1a07d25f67cf8ec8b0ade22.jpg
+2024-10-25 23:09:20,503 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.e3f5502ab1a07d25f67cf8ec8b0ade22.jpg
+2024-10-25 23:09:22,656 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-75-_jpg.rf.e3f5502ab1a07d25f67cf8ec8b0ade22.jpg_0.[39m
+2024-10-25 23:09:22,658 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-75-_jpg.rf.e3f5502ab1a07d25f67cf8ec8b0ade22.jpg_0.[39m
+2024-10-25 23:09:22,660 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-75-_jpg.rf.e3f5502ab1a07d25f67cf8ec8b0ade22.jpg
+2024-10-25 23:09:22,662 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.0809172ffb727de9f5c131960e2a577b.jpg
+2024-10-25 23:09:22,804 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.0809172ffb727de9f5c131960e2a577b.jpg
+2024-10-25 23:09:24,530 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-77-_jpg.rf.0809172ffb727de9f5c131960e2a577b.jpg_0.[39m
+2024-10-25 23:09:24,533 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-77-_jpg.rf.0809172ffb727de9f5c131960e2a577b.jpg_0.[39m
+2024-10-25 23:09:24,535 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.0809172ffb727de9f5c131960e2a577b.jpg
+2024-10-25 23:09:24,537 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.a3911431e7073b2716002f57966727ed.jpg
+2024-10-25 23:09:24,577 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.a3911431e7073b2716002f57966727ed.jpg
+2024-10-25 23:09:26,446 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-77-_jpg.rf.a3911431e7073b2716002f57966727ed.jpg_0.[39m
+2024-10-25 23:09:26,448 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-77-_jpg.rf.a3911431e7073b2716002f57966727ed.jpg_0.[39m
+2024-10-25 23:09:26,450 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.a3911431e7073b2716002f57966727ed.jpg
+2024-10-25 23:09:26,452 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.d8d542a3ad9845a178862760b14b44ed.jpg
+2024-10-25 23:09:26,925 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.d8d542a3ad9845a178862760b14b44ed.jpg
+2024-10-25 23:09:30,532 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-77-_jpg.rf.d8d542a3ad9845a178862760b14b44ed.jpg_0.[39m
+2024-10-25 23:09:30,534 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-77-_jpg.rf.d8d542a3ad9845a178862760b14b44ed.jpg_0.[39m
+2024-10-25 23:09:30,536 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-77-_jpg.rf.d8d542a3ad9845a178862760b14b44ed.jpg
+2024-10-25 23:09:30,537 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.470e2e3b8dd7019a7594bddb225c8a50.jpg
+2024-10-25 23:09:30,722 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.470e2e3b8dd7019a7594bddb225c8a50.jpg
+2024-10-25 23:09:33,396 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-78-_jpg.rf.470e2e3b8dd7019a7594bddb225c8a50.jpg_0.[39m
+2024-10-25 23:09:33,400 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-78-_jpg.rf.470e2e3b8dd7019a7594bddb225c8a50.jpg_0.[39m
+2024-10-25 23:09:33,402 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.470e2e3b8dd7019a7594bddb225c8a50.jpg
+2024-10-25 23:09:33,405 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.c6dded8da7e047886046bd74880c1451.jpg
+2024-10-25 23:09:34,034 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.c6dded8da7e047886046bd74880c1451.jpg
+2024-10-25 23:09:37,162 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-78-_jpg.rf.c6dded8da7e047886046bd74880c1451.jpg_0.[39m
+2024-10-25 23:09:37,165 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-78-_jpg.rf.c6dded8da7e047886046bd74880c1451.jpg_0.[39m
+2024-10-25 23:09:37,167 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.c6dded8da7e047886046bd74880c1451.jpg
+2024-10-25 23:09:37,168 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.eceba8d1693b80a69f4133a99a0eb7d2.jpg
+2024-10-25 23:09:37,374 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.eceba8d1693b80a69f4133a99a0eb7d2.jpg
+2024-10-25 23:09:39,914 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-78-_jpg.rf.eceba8d1693b80a69f4133a99a0eb7d2.jpg_0.[39m
+2024-10-25 23:09:39,916 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-78-_jpg.rf.eceba8d1693b80a69f4133a99a0eb7d2.jpg_0.[39m
+2024-10-25 23:09:39,917 - INFO - Modified file: \\192.168.140.236\search_target\image\images\ch-78-_jpg.rf.eceba8d1693b80a69f4133a99a0eb7d2.jpg
+2024-10-25 23:09:39,919 - INFO - Created file: \\192.168.140.236\search_target\image\images\ch-79-_jpg.rf.38eab534265d28bcb68abee12703504e.jpg
+2024-10-25 23:09:40,184 - INFO - copy finished: \\192.168.140.236\search_target\image\images\ch-79-_jpg.rf.38eab534265d28bcb68abee12703504e.jpg
+2024-10-25 23:09:42,408 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/image/images/ch-79-_jpg.rf.38eab534265d28bcb68abee12703504e.jpg_0.[39m
+2024-10-25 23:09:42,412 - INFO - [32m[*] Indexed new document with ID http://192.168.140.236:3001/image/images/ch-79-_jpg.rf.38eab534265d28bcb68abee12703504e.jpg_0.[39m
+2024-10-25 23:09:42,415 - INFO - Traceback (most recent call last):
+2024-10-25 23:09:42,418 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\../src/crawler_file/monitor.py", line 158, in <module>
+2024-10-25 23:09:42,420 - INFO - time.sleep(1)  # Keep the script running
+2024-10-25 23:09:42,423 - INFO - ^^^^^^^^^^^^^
+2024-10-25 23:09:42,425 - INFO - KeyboardInterrupt
+2024-10-25 23:09:42,426 - INFO - 
+2024-10-25 23:09:42,430 - INFO - During handling of the above exception, another exception occurred:
+2024-10-25 23:09:42,432 - INFO - 
+2024-10-25 23:09:42,435 - INFO - Traceback (most recent call last):
+2024-10-25 23:09:42,437 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 3713, in <module>
+2024-10-25 23:09:42,439 - INFO - main()
+2024-10-25 23:09:42,441 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 3706, in main
+2024-10-25 23:09:42,444 - INFO - globals = debugger.run(setup["file"], None, None, is_module)
+2024-10-25 23:09:42,447 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 23:09:42,452 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 2704, in run
+2024-10-25 23:09:42,455 - INFO - return self._exec(is_module, entry_point_fn, module_name, file, globals, locals)
+2024-10-25 23:09:42,459 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 23:09:42,463 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 2712, in _exec
+2024-10-25 23:09:42,471 - INFO - globals = pydevd_runpy.run_path(file, globals, "__main__")
+2024-10-25 23:09:42,476 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 23:09:42,480 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 310, in run_path
+2024-10-25 23:09:42,483 - INFO - return _run_module_code(code, init_globals, run_name, pkg_name=pkg_name, script_name=fname)
+2024-10-25 23:09:42,487 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 23:09:42,493 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 127, in _run_module_code
+2024-10-25 23:09:42,496 - INFO - _run_code(code, mod_globals, init_globals, mod_name, mod_spec, pkg_name, script_name)
+2024-10-25 23:09:42,500 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 118, in _run_code
+2024-10-25 23:09:42,503 - INFO - exec(code, run_globals)
+2024-10-25 23:09:42,506 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\../src/crawler_file/monitor.py", line 160, in <module>
+2024-10-25 23:09:42,510 - INFO - observer.stop()
+2024-10-25 23:09:42,513 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\watchdog\observers\api.py", line 186, in stop
+2024-10-25 23:09:42,515 - INFO - BaseThread.stop(self)
+2024-10-25 23:09:42,519 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\watchdog\utils\__init__.py", line 64, in stop
+2024-10-25 23:09:42,520 - INFO - self.on_thread_stop()
+2024-10-25 23:09:42,523 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\watchdog\observers\api.py", line 376, in on_thread_stop
+2024-10-25 23:09:42,525 - INFO - self.unschedule_all()
+2024-10-25 23:09:42,527 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\watchdog\observers\api.py", line 371, in unschedule_all
+2024-10-25 23:09:42,528 - INFO - self._handlers.clear()
+2024-10-25 23:09:42,530 - INFO - KeyboardInterrupt

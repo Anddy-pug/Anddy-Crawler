@@ -1,0 +1,28 @@
+Elasticsearch:
+  url: https://192.168.140.243:9200  
+  username: elastic
+  password: welcome
+  fingerprint: 4a9cddce08802c5d00cd798d46b7104212b43d2419763324e62a59b8b4ed8168
+  index:
+    web_index: product_web
+    file_index: file_storage
+
+Crawler:
+  Webcrawler:
+    type: "dynamic"
+    login_url: "http://192.168.140.243:8000/index.php?/auth/login/"
+    username: "admin@pug.com"
+    password: "welcome"
+    username_field_id: "name"
+    password_field_id: "password"
+    submit_button_id: "button_primary"
+    base_url: "http://192.168.140.243:8000"
+    not_url: "index.php?/auth/logout"
+  Filecrawler:
+    url: http://192.168.140.236/dir/search/
+
+Embedding:
+  url: http://192.168.140.238
+  API:
+    text_embedding: text_embedding
+    image_embedding: image_embedding

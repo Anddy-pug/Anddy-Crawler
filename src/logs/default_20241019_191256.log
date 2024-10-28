@@ -1,0 +1,103 @@
+2024-10-19 19:12:56,354 - INFO - 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+2024-10-19 19:12:56,355 - INFO - 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+2024-10-19 19:12:56,355 - INFO - 0.00s - to python to disable frozen modules.
+2024-10-19 19:12:56,355 - INFO - 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-19 19:14:18,491 - INFO - Error: Unable to access jarfile tika-server.jar
+2024-10-19 19:14:22,856 - INFO - Tika Server started on port 9998
+2024-10-19 19:14:27,755 - INFO - 2024-10-19 19:14:27,657 [MainThread  ] [WARNI]  Failed to see startup log message; retrying...
+2024-10-19 19:14:32,756 - INFO - 2024-10-19 19:14:32,756 [MainThread  ] [WARNI]  Failed to see startup log message; retrying...
+2024-10-19 19:14:37,757 - INFO - 2024-10-19 19:14:37,756 [MainThread  ] [WARNI]  Failed to see startup log message; retrying...
+2024-10-19 19:14:42,760 - INFO - 2024-10-19 19:14:42,758 [MainThread  ] [ERROR]  Tika startup log message not received after 3 tries.
+2024-10-19 19:14:42,762 - INFO - 2024-10-19 19:14:42,759 [MainThread  ] [ERROR]  Failed to receive startup confirmation from startServer.
+2024-10-19 19:14:42,764 - INFO - Index 'product_file_test_document' already exists.
+2024-10-19 19:14:42,765 - INFO - Index 'product_file_test_image' already exists.
+2024-10-19 19:14:42,767 - INFO - Error processing \\192.168.140.236\search_target\1.jpg: Unable to start Tika server.
+2024-10-19 19:14:54,478 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/1.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:14:54,479 - INFO - Processed \\192.168.140.236\search_target\1.pdf
+2024-10-19 19:15:33,761 - INFO - Error processing \\192.168.140.236\search_target\1.pptx: strptime() argument 1 must be str, not list
+2024-10-19 19:15:36,078 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/10137.jpg already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:15:36,079 - INFO - Processed \\192.168.140.236\search_target\10137.jpg
+2024-10-19 19:16:01,591 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/DevOps_UserGuideForRHELsystem.docx already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:16:01,592 - INFO - Processed \\192.168.140.236\search_target\DevOps_UserGuideForRHELsystem.docx
+2024-10-19 19:16:04,270 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/oauth.png already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:16:04,271 - INFO - Processed \\192.168.140.236\search_target\oauth.png
+2024-10-19 19:16:09,624 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/procs and cons.pptx already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:16:09,625 - INFO - Processed \\192.168.140.236\search_target\procs and cons.pptx
+2024-10-19 19:16:12,717 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/robots.txt already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:16:12,717 - INFO - Processed \\192.168.140.236\search_target\robots.txt
+2024-10-19 19:16:15,863 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/run.PNG already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:16:15,864 - INFO - Processed \\192.168.140.236\search_target\run.PNG
+2024-10-19 19:16:16,933 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/Screenshot 2024-05-21 065623.png already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:16:16,933 - INFO - Processed \\192.168.140.236\search_target\Screenshot 2024-05-21 065623.png
+2024-10-19 19:16:18,296 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/1.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:16:18,297 - INFO - Processed \\192.168.140.236\search_target\document\1.pdf
+2024-10-19 19:17:06,879 - INFO - Error processing \\192.168.140.236\search_target\document\1.pptx: strptime() argument 1 must be str, not list
+2024-10-19 19:17:06,880 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/1494870C-9912-C184-4CC9-B401-A53F4D8DE290.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,880 - INFO - Processed \\192.168.140.236\search_target\document\1494870C-9912-C184-4CC9-B401-A53F4D8DE290.pdf
+2024-10-19 19:17:06,881 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/2021-whistleblowing-policy-eu-uk.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,882 - INFO - Processed \\192.168.140.236\search_target\document\2021-whistleblowing-policy-eu-uk.pdf
+2024-10-19 19:17:06,882 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/A Philosophy of Software Design (2018).pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,882 - INFO - Processed \\192.168.140.236\search_target\document\A Philosophy of Software Design (2018).pdf
+2024-10-19 19:17:06,883 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/a-strategic-guide-to-putting-your-data-to-work-in-public-sector.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,883 - INFO - Processed \\192.168.140.236\search_target\document\a-strategic-guide-to-putting-your-data-to-work-in-public-sector.pdf
+2024-10-19 19:17:06,884 - INFO - Error processing \\192.168.140.236\search_target\document\A12_CrossLarge_24_N.pdf: expected string or bytes-like object, got 'NoneType'
+2024-10-19 19:17:06,884 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,885 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-19 19:17:06,885 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy - Copy - Copy - Copy - Copy - Copy - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,885 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-19 19:17:06,886 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy - Copy - Copy - Copy - Copy - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,886 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-19 19:17:06,887 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy - Copy - Copy - Copy - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,887 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy - Copy.pdf
+2024-10-19 19:17:06,887 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy - Copy - Copy - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,888 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy - Copy.pdf
+2024-10-19 19:17:06,888 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy - Copy - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,888 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy - Copy - Copy.pdf
+2024-10-19 19:17:06,889 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,889 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy - Copy.pdf
+2024-10-19 19:17:06,889 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.js - Copy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,889 - INFO - Processed \\192.168.140.236\search_target\document\About react.js - Copy.pdf
+2024-10-19 19:17:06,890 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/About react.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,890 - INFO - Processed \\192.168.140.236\search_target\document\About react.pdf
+2024-10-19 19:17:06,890 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/access-phpmyadmin-remotely.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,890 - INFO - Processed \\192.168.140.236\search_target\document\access-phpmyadmin-remotely.pdf
+2024-10-19 19:17:06,891 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/activate-use-xdebug.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:06,891 - INFO - Processed \\192.168.140.236\search_target\document\activate-use-xdebug.pdf
+2024-10-19 19:17:08,297 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/Adobe Acrobat Pro DC.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:08,297 - INFO - Processed \\192.168.140.236\search_target\document\Adobe Acrobat Pro DC.pdf
+2024-10-19 19:17:09,047 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/Adobe Cloud Services.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:09,048 - INFO - Processed \\192.168.140.236\search_target\document\Adobe Cloud Services.pdf
+2024-10-19 19:17:10,153 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/Adobe Sign White Paper.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:10,153 - INFO - Processed \\192.168.140.236\search_target\document\Adobe Sign White Paper.pdf
+2024-10-19 19:17:11,396 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/AdobeID.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:11,397 - INFO - Processed \\192.168.140.236\search_target\document\AdobeID.pdf
+2024-10-19 19:17:17,505 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/Advanced Web Application Architecture-Noback's Office (2020).pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:17,505 - INFO - Processed \\192.168.140.236\search_target\document\Advanced Web Application Architecture-Noback's Office (2020).pdf
+2024-10-19 19:17:21,936 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/Agile Modeling with UML-Springer (2017).pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:21,936 - INFO - Processed \\192.168.140.236\search_target\document\Agile Modeling with UML-Springer (2017).pdf
+2024-10-19 19:17:29,039 - INFO - [90m[*] Document with ID http://192.168.140.236:3001/document/anti-bribery-and-gifts-and-entertainment-policy.pdf already exists with the same content. Skipping indexing.[39m
+2024-10-19 19:17:29,040 - INFO - Processed \\192.168.140.236\search_target\document\anti-bribery-and-gifts-and-entertainment-policy.pdf
+2024-10-19 19:17:43,419 - INFO - Traceback (most recent call last):
+2024-10-19 19:17:43,420 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 3713, in <module>
+2024-10-19 19:17:43,925 - INFO - File "c:\Users\Administrator\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py", line 3706, in main
+2024-10-19 19:17:44,389 - INFO - object address  : 00000209304DC460
+2024-10-19 19:17:44,389 - INFO - object refcount : 3
+2024-10-19 19:17:44,389 - INFO - object type     : 00007FF959A89950
+2024-10-19 19:17:44,389 - INFO - object type name: KeyboardInterrupt
+2024-10-19 19:17:44,390 - INFO - object repr     : KeyboardInterrupt()
+2024-10-19 19:17:44,390 - INFO - lost sys.stderr
+2024-10-19 19:17:45,028 - INFO - Exception ignored in: <module 'threading' from 'c:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py'>
+2024-10-19 19:17:45,029 - INFO - Traceback (most recent call last):
+2024-10-19 19:17:45,029 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1622, in _shutdown
+2024-10-19 19:17:45,575 - INFO - KeyboardInterrupt:
+2024-10-19 19:17:49,298 - INFO - Exception ignored in sys.unraisablehook: <built-in function unraisablehook>
+2024-10-19 19:17:49,298 - INFO - KeyboardInterrupt:
+2024-10-19 19:17:49,796 - INFO - Exception ignored in atexit callback: <bound method finalize._exitfunc of <class 'weakref.finalize'>>
+2024-10-19 19:17:49,797 - INFO - Traceback (most recent call last):
+2024-10-19 19:17:49,797 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\weakref.py", line 666, in _exitfunc
+2024-10-19 19:17:50,273 - INFO - KeyboardInterrupt:
+2024-10-19 19:17:50,844 - INFO - Exception ignored in atexit callback: <function _atexit at 0x0000020976EBB100>
+2024-10-19 19:17:50,844 - INFO - Traceback (most recent call last):
+2024-10-19 19:17:50,844 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymupdf\__init__.py", line 21736, in _atexit
+2024-10-19 19:17:51,034 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymupdf\mupdf.py", line 41069, in fz_flush_warnings
+2024-10-19 19:17:51,333 - INFO - KeyboardInterrupt:

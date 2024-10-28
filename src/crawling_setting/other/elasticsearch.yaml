@@ -1,0 +1,4 @@
+elasticsearch_fingerprint: 4a9cddce08802c5d00cd798d46b7104212b43d2419763324e62a59b8b4ed8168
+elasticsearch_password: welcome
+elasticsearch_url: https://192.168.140.243:9200
+elasticsearch_username: elastic

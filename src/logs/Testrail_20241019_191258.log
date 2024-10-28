@@ -1,0 +1,78 @@
+2024-10-19 19:14:31,261 - INFO - 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+2024-10-19 19:14:31,262 - INFO - 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+2024-10-19 19:14:31,262 - INFO - 0.00s - to python to disable frozen modules.
+2024-10-19 19:14:31,263 - INFO - 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-19 19:14:37,200 - INFO - [INFO] 2024-10-19 19:14:37 - HEAD https://192.168.140.243:9200/ [status:200 duration:0.037s]
+2024-10-19 19:16:05,283 - INFO - [INFO] 2024-10-19 19:16:05 - Successfully logged in to the target site.
+2024-10-19 19:16:05,283 - INFO - [INFO] 2024-10-19 19:16:05 - Crawling: http://192.168.140.243:8000
+2024-10-19 19:16:21,462 - INFO - [*] embedding and save metadata http://192.168.140.243:8000_5.
+2024-10-19 19:16:21,646 - INFO - [INFO] 2024-10-19 19:16:21 - GET https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000_5 [status:200 duration:0.185s]
+2024-10-19 19:16:21,846 - INFO - [INFO] 2024-10-19 19:16:21 - PUT https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000_5 [status:200 duration:0.197s]
+2024-10-19 19:16:21,846 - INFO - [*] Updated document with ID http://192.168.140.243:8000_5.
+2024-10-19 19:16:57,810 - INFO - [INFO] 2024-10-19 19:16:23 - Crawling: http://192.168.140.243:8000/index.php?/enterprise
+2024-10-19 19:16:57,888 - INFO - [*] embedding and save metadata http://192.168.140.243:8000/index.php?/enterprise_4.
+2024-10-19 19:16:57,888 - INFO - [INFO] 2024-10-19 19:16:34 - GET https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fenterprise_4 [status:200 duration:0.053s]
+2024-10-19 19:16:57,889 - INFO - [INFO] 2024-10-19 19:16:34 - PUT https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fenterprise_4 [status:200 duration:0.030s]
+2024-10-19 19:16:57,889 - INFO - [*] Updated document with ID http://192.168.140.243:8000/index.php?/enterprise_4.
+2024-10-19 19:16:57,891 - INFO - [INFO] 2024-10-19 19:16:34 - Crawling: http://192.168.140.243:8000/index.php?/admin/overview
+2024-10-19 19:16:57,891 - INFO - [*] embedding and save metadata http://192.168.140.243:8000/index.php?/admin/overview_5.
+2024-10-19 19:16:57,892 - INFO - [INFO] 2024-10-19 19:16:50 - GET https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fadmin%2Foverview_5 [status:200 duration:0.593s]
+2024-10-19 19:16:57,892 - INFO - [INFO] 2024-10-19 19:16:50 - PUT https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fadmin%2Foverview_5 [status:200 duration:0.092s]
+2024-10-19 19:16:57,892 - INFO - [*] Updated document with ID http://192.168.140.243:8000/index.php?/admin/overview_5.
+2024-10-19 19:16:57,893 - INFO - [INFO] 2024-10-19 19:16:51 - Crawling: http://192.168.140.243:8000/index.php?/dashboard
+2024-10-19 19:17:04,280 - INFO - [*] embedding and save metadata http://192.168.140.243:8000/index.php?/dashboard_5.
+2024-10-19 19:17:04,309 - INFO - [INFO] 2024-10-19 19:17:04 - GET https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fdashboard_5 [status:200 duration:0.029s]
+2024-10-19 19:17:04,346 - INFO - [INFO] 2024-10-19 19:17:04 - PUT https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fdashboard_5 [status:200 duration:0.035s]
+2024-10-19 19:17:04,347 - INFO - [*] Updated document with ID http://192.168.140.243:8000/index.php?/dashboard_5.
+2024-10-19 19:17:06,909 - INFO - [INFO] 2024-10-19 19:17:05 - Crawling: http://192.168.140.243:8000/index.php?/projects/overview/1
+2024-10-19 19:17:21,085 - INFO - [*] embedding and save metadata http://192.168.140.243:8000/index.php?/projects/overview/1_6.
+2024-10-19 19:17:21,103 - INFO - [INFO] 2024-10-19 19:17:21 - GET https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fprojects%2Foverview%2F1_6 [status:200 duration:0.019s]
+2024-10-19 19:17:21,154 - INFO - [INFO] 2024-10-19 19:17:21 - PUT https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Fprojects%2Foverview%2F1_6 [status:200 duration:0.048s]
+2024-10-19 19:17:21,155 - INFO - [*] Updated document with ID http://192.168.140.243:8000/index.php?/projects/overview/1_6.
+2024-10-19 19:17:22,611 - INFO - [INFO] 2024-10-19 19:17:22 - Crawling: http://192.168.140.243:8000/index.php?/todos/overview/1
+2024-10-19 19:17:34,193 - INFO - [*] embedding and save metadata http://192.168.140.243:8000/index.php?/todos/overview/1_4.
+2024-10-19 19:17:34,222 - INFO - [INFO] 2024-10-19 19:17:34 - GET https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Ftodos%2Foverview%2F1_4 [status:200 duration:0.026s]
+2024-10-19 19:17:34,236 - INFO - [INFO] 2024-10-19 19:17:34 - PUT https://192.168.140.243:9200/product_web_testrail_updated/_doc/http%3A%2F%2F192.168.140.243%3A8000%2Findex.php%3F%2Ftodos%2Foverview%2F1_4 [status:200 duration:0.008s]
+2024-10-19 19:17:34,237 - INFO - [*] Updated document with ID http://192.168.140.243:8000/index.php?/todos/overview/1_4.
+2024-10-19 19:17:35,853 - INFO - [INFO] 2024-10-19 19:17:35 - Crawling: http://192.168.140.243:8000/index.php?/milestones/overview/1
+2024-10-19 19:17:47,262 - INFO - Traceback (most recent call last):
+2024-10-19 19:17:47,263 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 237, in quit
+2024-10-19 19:17:47,544 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 562, in quit
+2024-10-19 19:17:48,050 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 438, in execute
+2024-10-19 19:17:48,050 - INFO - response = self.command_executor.execute(driver_command, params)
+2024-10-19 19:17:48,095 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-19 19:17:48,095 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 290, in execute
+2024-10-19 19:17:48,511 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 311, in _request
+2024-10-19 19:17:48,517 - INFO - response = self._conn.request(method, url, body=body, headers=headers)
+2024-10-19 19:17:48,520 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-19 19:17:48,520 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\request.py", line 77, in request
+2024-10-19 19:17:48,977 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\request.py", line 99, in request_encode_url
+2024-10-19 19:17:48,978 - INFO - return self.urlopen(method, url, **extra_kw)
+2024-10-19 19:17:48,980 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-19 19:17:48,980 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\poolmanager.py", line 376, in urlopen
+2024-10-19 19:17:49,325 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 715, in urlopen
+2024-10-19 19:17:49,818 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+2024-10-19 19:17:49,849 - INFO - File "<string>", line 3, in raise_from
+2024-10-19 19:17:49,850 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 462, in _make_request
+2024-10-19 19:17:49,852 - INFO - httplib_response = conn.getresponse()
+2024-10-19 19:17:49,853 - INFO - ^^^^^^^^^^^^^^^^^^
+2024-10-19 19:17:49,854 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+2024-10-19 19:17:50,274 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+2024-10-19 19:17:50,274 - INFO - version, status, reason = self._read_status()
+2024-10-19 19:17:50,276 - INFO - ^^^^^^^^^^^^^^^^^^^
+2024-10-19 19:17:50,276 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 292, in _read_status
+2024-10-19 19:17:50,277 - INFO - line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+2024-10-19 19:17:50,279 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-19 19:17:50,280 - INFO - File "<stringsource>", line 69, in cfunc.to_py.__Pyx_CFunc_4904d5__29_pydevd_sys_monitoring_cython_object__lParen__etc_to_py_4code_11instruction_3exc.wrap
+2024-10-19 19:17:50,280 - INFO - File "_pydevd_sys_monitoring\\_pydevd_sys_monitoring_cython.pyx", line 848, in _pydevd_sys_monitoring_cython._unwind_event
+2024-10-19 19:17:50,469 - INFO - object address  : 00000249FBCC2620
+2024-10-19 19:17:50,469 - INFO - object refcount : 3
+2024-10-19 19:17:50,470 - INFO - object type     : 00007FF959A89950
+2024-10-19 19:17:50,470 - INFO - object type name: KeyboardInterrupt
+2024-10-19 19:17:50,471 - INFO - object repr     : KeyboardInterrupt()
+2024-10-19 19:17:50,471 - INFO - lost sys.stderr
+2024-10-19 19:17:50,976 - INFO - Exception ignored in: <module 'threading' from 'c:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py'>
+2024-10-19 19:17:50,977 - INFO - Traceback (most recent call last):
+2024-10-19 19:17:50,978 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1622, in _shutdown
+2024-10-19 19:17:50,978 - INFO - lock.acquire()
+2024-10-19 19:17:50,979 - INFO - KeyboardInterrupt:

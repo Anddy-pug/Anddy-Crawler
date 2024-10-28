@@ -1,0 +1,105 @@
+2024-10-19 20:07:48,918 - INFO - 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+2024-10-19 20:07:48,918 - INFO - 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+2024-10-19 20:07:48,918 - INFO - 0.00s - to python to disable frozen modules.
+2024-10-19 20:07:48,919 - INFO - 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-19 20:07:52,360 - INFO - [INFO] 2024-10-19 20:07:52 - HEAD https://192.168.140.243:9200/ [status:200 duration:0.011s]
+2024-10-19 20:08:20,087 - INFO - [INFO] 2024-10-19 20:08:20 - Successfully logged in to the target site.
+2024-10-19 20:08:20,087 - INFO - [INFO] 2024-10-19 20:08:20 - Crawling: https://192.168.140.254:33001
+2024-10-19 20:08:27,123 - INFO - [INFO] 2024-10-19 20:08:27 - Crawling: https://192.168.140.254:33001/apps/files/
+2024-10-19 20:08:36,059 - INFO - File Name: Templates (2), Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:39,346 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Templates (2)_0.
+2024-10-19 20:08:41,560 - INFO - [INFO] 2024-10-19 20:08:41 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTemplates%20%282%29_0 [status:200 duration:2.212s]
+2024-10-19 20:08:42,288 - INFO - [INFO] 2024-10-19 20:08:42 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTemplates%20%282%29_0 [status:200 duration:0.718s]
+2024-10-19 20:08:42,289 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Templates (2)_0.
+2024-10-19 20:08:42,291 - INFO - File Name: Templates, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:44,029 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Templates_0.
+2024-10-19 20:08:44,050 - INFO - [INFO] 2024-10-19 20:08:44 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTemplates_0 [status:200 duration:0.022s]
+2024-10-19 20:08:44,105 - INFO - [INFO] 2024-10-19 20:08:44 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTemplates_0 [status:200 duration:0.052s]
+2024-10-19 20:08:44,106 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Templates_0.
+2024-10-19 20:08:44,107 - INFO - File Name: Talk, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:45,805 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Talk_0.
+2024-10-19 20:08:45,851 - INFO - [INFO] 2024-10-19 20:08:45 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTalk_0 [status:200 duration:0.046s]
+2024-10-19 20:08:45,861 - INFO - [INFO] 2024-10-19 20:08:45 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTalk_0 [status:200 duration:0.007s]
+2024-10-19 20:08:45,861 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Talk_0.
+2024-10-19 20:08:45,861 - INFO - File Name: shared by pug0620, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:47,576 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//shared by pug0620_0.
+2024-10-19 20:08:47,600 - INFO - [INFO] 2024-10-19 20:08:47 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Fshared%20by%20pug0620_0 [status:200 duration:0.024s]
+2024-10-19 20:08:47,613 - INFO - [INFO] 2024-10-19 20:08:47 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Fshared%20by%20pug0620_0 [status:200 duration:0.011s]
+2024-10-19 20:08:47,614 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//shared by pug0620_0.
+2024-10-19 20:08:47,615 - INFO - File Name: Photos, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:49,328 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Photos_0.
+2024-10-19 20:08:49,335 - INFO - [INFO] 2024-10-19 20:08:49 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FPhotos_0 [status:200 duration:0.007s]
+2024-10-19 20:08:49,347 - INFO - [INFO] 2024-10-19 20:08:49 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FPhotos_0 [status:200 duration:0.011s]
+2024-10-19 20:08:49,348 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Photos_0.
+2024-10-19 20:08:49,348 - INFO - File Name: Nextcloud Analysis, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:51,045 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Nextcloud Analysis_0.
+2024-10-19 20:08:51,060 - INFO - [INFO] 2024-10-19 20:08:51 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud%20Analysis_0 [status:200 duration:0.014s]
+2024-10-19 20:08:51,069 - INFO - [INFO] 2024-10-19 20:08:51 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud%20Analysis_0 [status:200 duration:0.007s]
+2024-10-19 20:08:51,069 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Nextcloud Analysis_0.
+2024-10-19 20:08:51,070 - INFO - File Name: ftp-tasks, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:52,788 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//ftp-tasks_0.
+2024-10-19 20:08:52,797 - INFO - [INFO] 2024-10-19 20:08:52 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Fftp-tasks_0 [status:200 duration:0.009s]
+2024-10-19 20:08:52,807 - INFO - [INFO] 2024-10-19 20:08:52 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Fftp-tasks_0 [status:200 duration:0.009s]
+2024-10-19 20:08:52,808 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//ftp-tasks_0.
+2024-10-19 20:08:52,808 - INFO - File Name: asdfsadfasdfdf, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:54,534 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//asdfsadfasdfdf_0.
+2024-10-19 20:08:54,544 - INFO - [INFO] 2024-10-19 20:08:54 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Fasdfsadfasdfdf_0 [status:200 duration:0.010s]
+2024-10-19 20:08:54,558 - INFO - [INFO] 2024-10-19 20:08:54 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Fasdfsadfasdfdf_0 [status:200 duration:0.012s]
+2024-10-19 20:08:54,558 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//asdfsadfasdfdf_0.
+2024-10-19 20:08:54,559 - INFO - File Name: Toolset.xlsx, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:56,246 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Toolset.xlsx_0.
+2024-10-19 20:08:56,271 - INFO - [INFO] 2024-10-19 20:08:56 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FToolset.xlsx_0 [status:200 duration:0.024s]
+2024-10-19 20:08:56,290 - INFO - [INFO] 2024-10-19 20:08:56 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FToolset.xlsx_0 [status:200 duration:0.016s]
+2024-10-19 20:08:56,291 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Toolset.xlsx_0.
+2024-10-19 20:08:56,292 - INFO - File Name: ToolCollection.xlsx, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:58,063 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//ToolCollection.xlsx_0.
+2024-10-19 20:08:58,070 - INFO - [INFO] 2024-10-19 20:08:58 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FToolCollection.xlsx_0 [status:200 duration:0.007s]
+2024-10-19 20:08:58,080 - INFO - [INFO] 2024-10-19 20:08:58 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FToolCollection.xlsx_0 [status:200 duration:0.008s]
+2024-10-19 20:08:58,080 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//ToolCollection.xlsx_0.
+2024-10-19 20:08:58,081 - INFO - File Name: test.txt, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:08:59,793 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//test.txt_0.
+2024-10-19 20:08:59,812 - INFO - [INFO] 2024-10-19 20:08:59 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Ftest.txt_0 [status:200 duration:0.018s]
+2024-10-19 20:08:59,844 - INFO - [INFO] 2024-10-19 20:08:59 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2Ftest.txt_0 [status:200 duration:0.029s]
+2024-10-19 20:08:59,845 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//test.txt_0.
+2024-10-19 20:08:59,846 - INFO - File Name: Templates credits.md, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:01,512 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Templates credits.md_0.
+2024-10-19 20:09:01,555 - INFO - [INFO] 2024-10-19 20:09:01 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTemplates%20credits.md_0 [status:200 duration:0.041s]
+2024-10-19 20:09:01,563 - INFO - [INFO] 2024-10-19 20:09:01 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTemplates%20credits.md_0 [status:200 duration:0.007s]
+2024-10-19 20:09:01,564 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Templates credits.md_0.
+2024-10-19 20:09:01,565 - INFO - File Name: Technical PPT Templates.potx, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:03,199 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Technical PPT Templates.potx_0.
+2024-10-19 20:09:03,206 - INFO - [INFO] 2024-10-19 20:09:03 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTechnical%20PPT%20Templates.potx_0 [status:200 duration:0.007s]
+2024-10-19 20:09:03,217 - INFO - [INFO] 2024-10-19 20:09:03 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FTechnical%20PPT%20Templates.potx_0 [status:200 duration:0.008s]
+2024-10-19 20:09:03,218 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Technical PPT Templates.potx_0.
+2024-10-19 20:09:03,220 - INFO - File Name: Reasons to use Nextcloud.pdf, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:04,836 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Reasons to use Nextcloud.pdf_0.
+2024-10-19 20:09:04,865 - INFO - [INFO] 2024-10-19 20:09:04 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FReasons%20to%20use%20Nextcloud.pdf_0 [status:200 duration:0.028s]
+2024-10-19 20:09:04,873 - INFO - [INFO] 2024-10-19 20:09:04 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FReasons%20to%20use%20Nextcloud.pdf_0 [status:200 duration:0.007s]
+2024-10-19 20:09:04,874 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Reasons to use Nextcloud.pdf_0.
+2024-10-19 20:09:04,874 - INFO - File Name: Readme.md, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:06,494 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Readme.md_0.
+2024-10-19 20:09:06,510 - INFO - [INFO] 2024-10-19 20:09:06 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FReadme.md_0 [status:200 duration:0.017s]
+2024-10-19 20:09:06,518 - INFO - [INFO] 2024-10-19 20:09:06 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FReadme.md_0 [status:200 duration:0.006s]
+2024-10-19 20:09:06,518 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Readme.md_0.
+2024-10-19 20:09:06,519 - INFO - File Name: Nextcloud.png, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:08,097 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Nextcloud.png_0.
+2024-10-19 20:09:08,119 - INFO - [INFO] 2024-10-19 20:09:08 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud.png_0 [status:200 duration:0.022s]
+2024-10-19 20:09:08,129 - INFO - [INFO] 2024-10-19 20:09:08 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud.png_0 [status:200 duration:0.008s]
+2024-10-19 20:09:08,130 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Nextcloud.png_0.
+2024-10-19 20:09:08,131 - INFO - File Name: Nextcloud Manual.pdf, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:09,722 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Nextcloud Manual.pdf_0.
+2024-10-19 20:09:09,728 - INFO - [INFO] 2024-10-19 20:09:09 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud%20Manual.pdf_0 [status:200 duration:0.007s]
+2024-10-19 20:09:09,739 - INFO - [INFO] 2024-10-19 20:09:09 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud%20Manual.pdf_0 [status:200 duration:0.007s]
+2024-10-19 20:09:09,740 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Nextcloud Manual.pdf_0.
+2024-10-19 20:09:09,741 - INFO - File Name: Nextcloud intro.mp4, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:11,328 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Nextcloud intro.mp4_0.
+2024-10-19 20:09:11,334 - INFO - [INFO] 2024-10-19 20:09:11 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud%20intro.mp4_0 [status:200 duration:0.006s]
+2024-10-19 20:09:11,341 - INFO - [INFO] 2024-10-19 20:09:11 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FNextcloud%20intro.mp4_0 [status:200 duration:0.006s]
+2024-10-19 20:09:11,342 - INFO - [*] Updated document with ID https://192.168.140.254:33001/apps/files//Nextcloud intro.mp4_0.
+2024-10-19 20:09:11,343 - INFO - File Name: Jobs.xlsx, Image URL: https://192.168.140.254:33001/apps/theming/favicon/files?v=22e82faa
+2024-10-19 20:09:12,914 - INFO - [*] embedding and save metadata https://192.168.140.254:33001/apps/files//Jobs.xlsx_0.
+2024-10-19 20:09:12,917 - INFO - [INFO] 2024-10-19 20:09:12 - GET https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FJobs.xlsx_0 [status:404 duration:0.002s]
+2024-10-19 20:09:23,004 - INFO - [INFO] 2024-10-19 20:09:23 - PUT https://192.168.140.243:9200/product_web_nextcloud/_doc/https%3A%2F%2F192.168.140.254%3A33001%2Fapps%2Ffiles%2F%2FJobs.xlsx_0?pipeline=elser-v2-document [status:N/A duration:10.085s]
+2024-10-19 20:09:23,005 - INFO - [WARNING] 2024-10-19 20:09:23 - Node <Urllib3HttpNode(https://192.168.140.243:9200)> has failed for 1 times in a row, putting on 1 second timeout
+2024-10-19 20:09:23,005 - INFO - [ERROR] 2024-10-19 20:09:23 - Error crawling https://192.168.140.254:33001/apps/files/: Connection timed out
+2024-10-19 20:09:23,006 - INFO - [INFO] 2024-10-19 20:09:23 - Crawling completed!

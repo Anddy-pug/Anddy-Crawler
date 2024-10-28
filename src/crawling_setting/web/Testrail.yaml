@@ -1,0 +1,15 @@
+crawlingTime: '3600'
+crawlingType: Web Crawling
+etc: ''
+indexName: product_web_testrail_updated
+jobName: Testrail
+loginRequired: Required
+login_url: http://192.168.140.243:8000/index.php?/auth/login/
+logout_url: index.php?/auth/logout
+password: welcome
+passwordId: password
+submitId: button_primary
+url: http://192.168.140.243:8000
+username: admin@pug.com
+usernameId: name
+webContentsType: Dynamic Web Contents

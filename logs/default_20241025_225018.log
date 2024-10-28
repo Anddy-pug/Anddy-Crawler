@@ -1,0 +1,50 @@
+2024-10-25 22:50:19,153 - INFO - 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+2024-10-25 22:50:19,170 - INFO - 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+2024-10-25 22:50:19,170 - INFO - 0.00s - to python to disable frozen modules.
+2024-10-25 22:50:19,171 - INFO - 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-25 22:51:35,607 - INFO - Error: Unable to access jarfile tika-server.jar
+2024-10-25 22:51:40,085 - INFO - Tika Server started on port 9998
+2024-10-25 22:51:40,374 - INFO - Execution time: 0h 0m 0.00s
+2024-10-25 22:51:40,476 - INFO - Monitoring changes in: \\192.168.140.236\search_target
+2024-10-25 22:52:07,241 - INFO - Created file: \\192.168.140.236\search_target\ge-64-_jpg.rf.abf41148d53b29415c1ba7676c54db83.jpg
+2024-10-25 22:52:07,336 - INFO - copy finished: \\192.168.140.236\search_target\ge-64-_jpg.rf.abf41148d53b29415c1ba7676c54db83.jpg
+2024-10-25 22:52:09,915 - INFO - 2024-10-25 22:52:09,890 [Thread-6    ] [WARNI]  Failed to see startup log message; retrying...
+2024-10-25 22:52:14,916 - INFO - 2024-10-25 22:52:14,916 [Thread-6    ] [WARNI]  Failed to see startup log message; retrying...
+2024-10-25 22:56:19,328 - INFO - Exception in thread Thread-6:
+2024-10-25 22:56:19,329 - INFO - Traceback (most recent call last):
+2024-10-25 22:56:19,329 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1073, in _bootstrap_inner
+2024-10-25 22:56:19,329 - INFO - self.run()
+2024-10-25 22:56:19,330 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\watchdog\observers\api.py", line 213, in run
+2024-10-25 22:56:19,330 - INFO - self.dispatch_events(self.event_queue)
+2024-10-25 22:56:19,330 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\watchdog\observers\api.py", line 391, in dispatch_events
+2024-10-25 22:56:19,330 - INFO - handler.dispatch(event)
+2024-10-25 22:56:19,331 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\watchdog\events.py", line 217, in dispatch
+2024-10-25 22:56:19,331 - INFO - getattr(self, f"on_{event.event_type}")(event)
+2024-10-25 22:56:19,331 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\../src/crawler_file/monitor.py", line 50, in on_created
+2024-10-25 22:56:19,332 - INFO - self.processor.process_file(event.src_path, self.processor.ip)
+2024-10-25 22:56:19,332 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\crawler_file\file_crawler.py", line 218, in process_file
+2024-10-25 22:56:19,332 - INFO - self.embed_and_save(metadata)
+2024-10-25 22:56:19,332 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\crawler_file\file_crawler.py", line 248, in embed_and_save
+2024-10-25 22:56:19,333 - INFO - self.es.save_data(metadata, self.index_name + "_image")
+2024-10-25 22:56:19,333 - INFO - File "F:\______Restult\ElaticSearch\Python_Crawler\src\search_engine\elasticsearch_connector.py", line 104, in save_data
+2024-10-25 22:56:19,333 - INFO - self.client.index(index=index, id=doc_id, document=document, pipeline="elser-v2-document")
+2024-10-25 22:56:19,334 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\elasticsearch\_sync\client\utils.py", line 446, in wrapped
+2024-10-25 22:56:19,334 - INFO - return api(*args, **kwargs)
+2024-10-25 22:56:19,334 - INFO - ^^^^^^^^^^^^^^^^^^^^
+2024-10-25 22:56:19,334 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\elasticsearch\_sync\client\__init__.py", line 2428, in index
+2024-10-25 22:56:19,335 - INFO - return self.perform_request(  # type: ignore[return-value]
+2024-10-25 22:56:19,335 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 22:56:19,335 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 271, in perform_request
+2024-10-25 22:56:19,336 - INFO - response = self._perform_request(
+2024-10-25 22:56:19,336 - INFO - ^^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 22:56:19,357 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 316, in _perform_request
+2024-10-25 22:56:19,358 - INFO - meta, resp_body = self.transport.perform_request(
+2024-10-25 22:56:19,359 - INFO - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 22:56:19,359 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\elastic_transport\_transport.py", line 342, in perform_request
+2024-10-25 22:56:19,386 - INFO - resp = node.perform_request(
+2024-10-25 22:56:19,386 - INFO - ^^^^^^^^^^^^^^^^^^^^^
+2024-10-25 22:56:19,387 - INFO - File "c:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\elastic_transport\_node\_http_urllib3.py", line 202, in perform_request
+2024-10-25 22:56:19,387 - INFO - raise err from None
+2024-10-25 22:56:19,388 - INFO - elastic_transport.ConnectionTimeout: Connection timed out
+2024-10-25 22:58:40,857 - INFO - [33m[*] embedding and save metadata http://192.168.140.236:3001/ge-64-_jpg.rf.abf41148d53b29415c1ba7676c54db83.jpg_0.[39m
+2024-10-25 22:58:40,858 - INFO - Backend tkagg is interactive backend. Turning interactive mode on.

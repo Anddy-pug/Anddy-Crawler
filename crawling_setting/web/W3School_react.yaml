@@ -1,0 +1,15 @@
+crawlingTime: '3600'
+crawlingType: Web Crawling
+etc: ''
+indexName: product_web_school_react
+jobName: W3School_react
+loginRequired: Not Required
+login_url: ''
+logout_url: ''
+password: ''
+passwordId: ''
+submitId: ''
+url: http://192.168.140.238/w3school/www.w3schools.com/react
+username: ''
+usernameId: ''
+webContentsType: Static Web Contents

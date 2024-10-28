@@ -1,0 +1,15 @@
+crawlingTime: '3600'
+crawlingType: Web Crawling
+etc: ''
+indexName: product_web_nextcloud_updated
+jobName: Nextcloud_2
+loginRequired: Required
+login_url: https://192.168.140.254:33001/login
+logout_url: ''
+password: pug0620
+passwordId: ''
+submitId: ''
+url: https://192.168.140.254:33001
+username: pug0620
+usernameId: ''
+webContentsType: NextCloud

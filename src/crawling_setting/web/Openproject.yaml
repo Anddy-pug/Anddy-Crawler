@@ -1,0 +1,15 @@
+crawlingTime: '3600'
+crawlingType: Web Crawling
+etc: ''
+indexName: product_web_openproject_updated
+jobName: Openproject
+loginRequired: Required
+login_url: https://192.168.140.254:33005/login
+logout_url: index.php?/auth/logout
+password: pug0620
+passwordId: password
+submitId: button_primary
+url: https://192.168.140.254:33005/projects
+username: pug0620
+usernameId: name
+webContentsType: OpenProject

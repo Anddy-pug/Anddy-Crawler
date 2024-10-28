@@ -1,0 +1,2 @@
+imageembedding_url: http://192.168.140.246:5000/embed_image
+textembedding_url: http://192.168.140.246:11434/api/embed

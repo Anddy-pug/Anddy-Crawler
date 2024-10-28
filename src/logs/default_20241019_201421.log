@@ -1,0 +1,4 @@
+2024-10-19 20:14:25,421 - INFO - Error: Unable to access jarfile tika-server.jar
+2024-10-19 20:14:29,505 - INFO - Tika Server started on port 9998
+2024-10-19 20:14:31,899 - INFO - 2024-10-19 20:14:31,898 [MainThread  ] [WARNI]  Failed to see startup log message; retrying...
+2024-10-19 20:14:38,570 - INFO - Index 'product_file_test_document' already exists.
